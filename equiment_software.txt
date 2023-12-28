@@ -7,6 +7,7 @@ Equiment:
 3. Naim NSC 222 Streaming Preamplifier
 4. Naim Amplifier
 5. Focal speakers
+6. SONY blueray player
 
 Software:
 =========
