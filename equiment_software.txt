@@ -4,6 +4,9 @@ Equiment:
 =========
 1. Sennheiser 598SE Headphones
 2. Sennheiser 660S Headphones
+3. Naim NSC 222 Streaming Preamplifier
+4. Naim Amplifier
+5. Focal speakers
 
 Software:
 =========
