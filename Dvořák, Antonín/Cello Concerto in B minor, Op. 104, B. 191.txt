@@ -11,9 +11,9 @@ Format: FLAC[24/192]
 Gramophone's pick
 
 Mstilav Rostropovich, Boston Symphony Orchestra, Seiji Ozawa
-1. Allegro [15'41]
-2. Adagio, ma non troppo [12'44]
-3. Finale: Allegro moderato — Andante — Allegro vivo [13'05]
+1. Allegro [14'45]
+2. Adagio, ma non troppo [11'50]
+3. Finale: Allegro moderato — Andante — Allegro vivo [12'25]
 Format: FLAC[16/44.1]
 Hurwitz: better than Rostropovich/Karajan
 
@@ -23,24 +23,31 @@ Alisa Weilerstein, Czech Philharmonic, Jiří Bělohlávek
 3. Finale: Allegro moderato — Andante — Allegro vivo [12'38]
 Format: FLAC[24/96]
 Gramophone's pick
-Hurwitz: this recording sucks due to the inbalance between the soloist and the orchestra
+Hurwitz: sucks due to the inbalance between the soloist and the orchestra
 
 Heinriff Schiff, Wiener Philharmoniker, André Previn
 1. Allegro [14'23]
 2. Adagio, ma non troppo [11'18]
 3. Finale: Allegro moderato — Andante — Allegro vivo [11'59]
 Format: FLAC[16/44.1]
+Hurwitz's pick
 
-
+Frans Helmerson, The Gothenburg Symphony Orchestra, Neeme Järvi
+1. Allegro [15'04]
+2. Adagio, ma non troppo [11'30]
+3. Finale: Allegro moderato — Andante — Allegro vivo [12'43]
+Format: FLAC[16/44.1]
+Hurwitz: recommended
 
 URL:
 ====
 
+Gramophone
+https://www.gramophone.co.uk/review/dvo%C5%99%C3%A1k-cello-concerto-0
+
 David Hurwitz
 Repertoire: The BEST and LESS BEST Dvořak Cello Concerto Recordings
 https://www.youtube.com/watch?v=SqS5RyMX788
-
-Gramophone
 
 Music In Depth | Dvořák Cello Concerto in B minor
 https://www.youtube.com/watch?v=k-dAt9_Fxog
@@ -59,4 +66,6 @@ Legends:
 [1 1.00:00] clarinets, first theme, parentheses-shape
 [7 1.:] flutes, oboes
 [11 1.:] strings
-[7 1.:] orchestra, first theme
+[ 1.:] 
+[ 2.:] 
+[ 3.:] 
