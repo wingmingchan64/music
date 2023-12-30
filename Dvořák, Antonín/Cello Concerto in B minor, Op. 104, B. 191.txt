@@ -10,6 +10,13 @@ Mstilav Rostropovich, Berliner Philharmoniker, Herbert von Karajan
 Format: FLAC[24/192]
 Gramophone's pick
 
+Mstilav Rostropovich, Boston Symphony Orchestra, Seiji Ozawa
+1. Allegro [15'41]
+2. Adagio, ma non troppo [12'44]
+3. Finale: Allegro moderato — Andante — Allegro vivo [13'05]
+Format: FLAC[16/44.1]
+Hurwitz: better than Rostropovich/Karajan
+
 Alisa Weilerstein, Czech Philharmonic, Jiří Bělohlávek
 1. Allegro [14'42]
 2. Adagio, ma non troppo [11'23]
@@ -24,6 +31,8 @@ Heinriff Schiff, Wiener Philharmoniker, André Previn
 3. Finale: Allegro moderato — Andante — Allegro vivo [11'59]
 Format: FLAC[16/44.1]
 
+
+
 URL:
 ====
 
@@ -32,6 +41,22 @@ Repertoire: The BEST and LESS BEST Dvořak Cello Concerto Recordings
 https://www.youtube.com/watch?v=SqS5RyMX788
 
 Gramophone
-Top 15 Dvořák recordings
-https://www.gramophone.co.uk/features/article/top-15-dvorak-recordings
 
+Music In Depth | Dvořák Cello Concerto in B minor
+https://www.youtube.com/watch?v=k-dAt9_Fxog
+
+Notes:
+======
+
+Legends:
+[1 1.00:00]: [bar_number track.minute:second]
+
+1. Smetana was his mentor
+2. Brahms launched his career
+3. 1892, NYC
+4. Written in 1894 in New York, after Symphony No. 9
+5. Structure (reference: Schiff/Previn)
+[1 1.00:00] clarinets, first theme, parentheses-shape
+[7 1.:] flutes, oboes
+[11 1.:] strings
+[7 1.:] orchestra, first theme
