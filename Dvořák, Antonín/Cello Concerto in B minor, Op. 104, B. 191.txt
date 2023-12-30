@@ -2,6 +2,7 @@ Dvořák: Cello Concerto in B minor, Op. 104, B. 191
 
 Recordings:
 ===========
+(More than 30 recordings, too many to list here.)
 
 Mstilav Rostropovich, Berliner Philharmoniker, Herbert von Karajan
 1. Allegro [15'41]
@@ -39,6 +40,13 @@ Frans Helmerson, The Gothenburg Symphony Orchestra, Neeme Järvi
 Format: FLAC[16/44.1]
 Hurwitz: recommended
 
+Pierre Fournier, Berliner Philharmoniker, George Szell
+1. Allegro [14'40]
+2. Adagio, ma non troppo [11'24]
+3. Finale: Allegro moderato — Andante — Allegro vivo [12'21]
+Format: SACD[DSD128]
+
+
 URL:
 ====
 
@@ -52,6 +60,10 @@ https://www.youtube.com/watch?v=SqS5RyMX788
 Music In Depth | Dvořák Cello Concerto in B minor
 https://www.youtube.com/watch?v=k-dAt9_Fxog
 
+DVORAK SHACK
+https://dvorakshack.blogspot.com/
+https://www.youtube.com/watch?v=BZ80pPKR_So
+
 Notes:
 ======
 
@@ -62,8 +74,49 @@ Legends:
 2. Brahms launched his career
 3. 1892, NYC
 4. Written in 1894 in New York, after Symphony No. 9
-5. Structure (reference: Schiff/Previn)
-[1 1.00:00] clarinets, first theme, parentheses-shape
+5. Structure (reference: Weilerstein/Bělohlávek, following DVORAK SHACK)
+[1 1.00:00] clarinets, theme 1, phase a
+t=25 theme 1, phase b
+t=55 theme 1, phase c
+t=1:07 modulating bridge
+t=1:41 clarinets
+t=1:52 flutes
+t=1:57 strings
+t=2:10 horn, theme 2, phase a
+t=2:41 clarinets, theme 2, phase b
+t=2:50 oboes, theme 2, phase b
+t=2:58 strings, theme 2, phase b
+t=3:08 cadence
+t=3:37 cello solo exposition
+t=3:57 virtuoso passage
+t=4:16 theme 1
+t=4:31 modulating bridge
+t=5:07 theme 1
+t=5:17 solo passage
+t=5:28 solo passage
+t=5:40 theme 2, phase a
+t=6:07 theme 2, phase b
+t=6:32 virtuoso passage
+t=6:53 lyrical motive
+t=7:04 virtuoso passage
+t=7:39 quasi cadenza
+t=7:56 quasi cadenza, orchestra
+t=8:23 strings, theme 1
+t=9:14 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [7 1.:] flutes, oboes
 [11 1.:] strings
 [ 1.:] 
