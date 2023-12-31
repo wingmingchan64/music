@@ -64,6 +64,8 @@ DVORAK SHACK
 https://dvorakshack.blogspot.com/
 https://www.youtube.com/watch?v=BZ80pPKR_So
 
+https://www.antonin-dvorak.cz/en/work/concerto-for-cello-and-orchestra-in-b-minor/
+
 Notes:
 ======
 
@@ -74,15 +76,19 @@ Legends:
 2. Brahms launched his career
 3. 1892, NYC
 4. Written in 1894 in New York, after Symphony No. 9
-5. Structure (reference: Weilerstein/Bělohlávek, following DVORAK SHACK)
-[1 1.00:00] clarinets, theme 1, phase a
+5. Structure (reference: )
+Exposition
+[1 1.00:00] clarinets, theme 1, phase a in B Minor
 t=25 theme 1, phase b
 t=55 theme 1, phase c
-t=1:07 modulating bridge
+t=1:09 phase c continued - skipping motive
+t=1:17 modulating bridge: descending sequence of trills and diminished arpeggios
+t=1:25 modulating bridge: rising sequence in low strings based on F# Major/Minor scale
+
 t=1:41 clarinets
 t=1:52 flutes
 t=1:57 strings
-t=2:10 horn, theme 2, phase a
+t=2:10 horn solo, theme 2, phase a
 t=2:41 clarinets, theme 2, phase b
 t=2:50 oboes, theme 2, phase b
 t=2:58 strings, theme 2, phase b
@@ -101,6 +107,7 @@ t=6:53 lyrical motive
 t=7:04 virtuoso passage
 t=7:39 quasi cadenza
 t=7:56 quasi cadenza, orchestra
+Development
 t=8:23 strings, theme 1
 t=9:14 
 
