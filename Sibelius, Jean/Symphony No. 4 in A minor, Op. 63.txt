@@ -3,17 +3,17 @@ Sibelius: Symphony No. 4 in A minor, Op. 63
 Recordings:
 ===========
 Philharmonia Orchestra, Vladimir Ashkenazy
-1. Tempo molto moderato, quasi adagio [']
-2. Allegro molto vivace (ma non troppo lento) [']
-3. Il tempo largo Allegro [']
-4. Allegro [']
+1. Tempo molto moderato, quasi adagio [9'41]
+2. Allegro molto vivace (ma non troppo lento) [4'38]
+3. Il tempo largo Allegro [9'26]
+4. Allegro [9'14]
 Format: FLAC[16/44.1]
 
 Helsinki Philharmonic Orchestra (Helsingin kaupunginorkesteri), Leif Segerstam
-1. Tempo molto moderato, quasi adagio [']
-2. Allegro molto vivace (ma non troppo lento) [']
-3. Il tempo largo Allegro [']
-4. Allegro [']
+1. Tempo molto moderato, quasi adagio [11'13]
+2. Allegro molto vivace (ma non troppo lento) [4'55]
+3. Il tempo largo Allegro [11'25]
+4. Allegro [10'27]
 Format: FLAC[16/44.1]
 
 URL:
