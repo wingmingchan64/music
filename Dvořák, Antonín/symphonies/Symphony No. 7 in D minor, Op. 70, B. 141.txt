@@ -10,11 +10,21 @@ Budapest Festival Orchestra, Ivan Fischer
 〚4〛Finale: Allegro [9'38]
 Format: FLAC[24/88.2]
 
-〚1〛Allegro maestoso [']
-〚2〛Poco adagio [']
-〚3〛Scherzo: Vivace — Poco meno mosso [']
-〚4〛Finale: Allegro [']
-Format: 
+The Cleveland Orchestra, Christoph von Dohnányi
+〚1〛Allegro maestoso [10'39]
+〚2〛Poco adagio [9'39]
+〚3〛Scherzo: Vivace — Poco meno mosso [7'20]
+〚4〛Finale: Allegro [9'00]
+Format: FLAC[16/44.1]
+
+Czech Philharmonic Orchestra, Václav Neumann
+〚1〛Allegro maestoso [11'07]
+〚2〛Poco adagio [9'33]
+〚3〛Scherzo: Vivace — Poco meno mosso [7'38]
+〚4〛Finale: Allegro [9'10]
+Format: FLAC[16/44.1]
+
+
 
 
 URL:
