@@ -17,15 +17,22 @@ Pittsburgh Symphony Orchestra, Manfred Honeck
 〚3〛Allegretto grazioso — Molto vivace [6'03]
 〚4〛Allegro ma non troppo [11'13]
 Format: FLAC[16/44.1]
-Dynamics 跟 tempo 的變化很大，細節特多。
+Dynamics 跟 tempo 的變化很大，細節特多。整體印象是比 Karajan 的乾淨。
 
 The Cleveland Orchestra, Christoph von Dohnányi
-〚1〛Allegro con brio [']
-〚2〛Adagio [']
-〚3〛Allegretto grazioso — Molto vivace [']
-〚4〛Allegro ma non troppo [']
+〚1〛Allegro con brio [10'14]
+〚2〛Adagio [10'38]
+〚3〛Allegretto grazioso — Molto vivace [6'11]
+〚4〛Allegro ma non troppo [9'23]
 Format: FLAC[16/44.1]
 也是很多細節。
+
+Berliner Philharmoniker, Rafael Kubelik
+〚1〛Allegro con brio [9'56]
+〚2〛Adagio [10'21]
+〚3〛Allegretto grazioso — Molto vivace [6'38]
+〚4〛Allegro ma non troppo [8'50]
+Format: SACD[DSD64]
 
 URL:
 ====
