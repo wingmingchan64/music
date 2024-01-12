@@ -9,7 +9,7 @@ Panocha Quartet
 〚3〛 Molto vivace [3'54]
 〚4〛 Finale: vivace ma non troppo [5'07]
 Format: FLAC[16/44.1]
-〚2〛最後主題再現，大提琴奏主旋律，一路下行，一唱三嘆。
+〚2〛最後主題再現，大提琴演奏主旋律，一路下行，一唱三嘆。此主題雖說可能來自黑人靈歌，或者印第安人的旋律，我倒是聯想到往後的大提琴協奏曲。
 
 〚1〛 [']
 〚2〛 [']
@@ -20,4 +20,4 @@ Format: FLAC[16/44.1]
 URL:
 ====
 
-
+https://en.wikipedia.org/wiki/String_Quartet_No._12_(Dvo%C5%99%C3%A1k)
