@@ -19,6 +19,13 @@ Format: FLAC[16/44.1]
 Hurwitz's pick
 Järvi 的版本節奏比較快，清晰度也高。
 
+Philharmonia Orchestra, Vladimir Ashkenazy
+〚1〛Allegro molto moderato [9'23]
+〚2〛Allegretto moderato [5'42]
+〚3〛Poco vivace [3'54]
+〚4〛Allegro molto [9'28]
+Format: FLAC[16/44.1]
+
 URL:
 ====
 
