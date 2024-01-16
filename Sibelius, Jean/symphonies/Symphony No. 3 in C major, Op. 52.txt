@@ -10,10 +10,16 @@ Philharmonia Orchestra, Vladimir Ashkenazy
 Format: FLAC[16/44.1]
 
 Pittsburgh Symphony Orchestra, Lorin Maazel
-〚1〛Allegro moderato [10'58]
-〚2〛Andantino con moto, quasi allegretto [9'30]
-〚3〛Moderato – Allegro ma non tanto [9'19]
+〚1〛Allegro moderato [9'58]
+〚2〛Andantino con moto, quasi allegretto [8'09]
+〚3〛Moderato – Allegro ma non tanto [9'29]
 Format: FLAC[16/44.1]
+
+Minnesota Orchestra, Osmo Vänskä
+〚1〛Allegro moderato [10'21]
+〚2〛Andantino con moto, quasi allegretto [10'44]
+〚3〛Moderato – Allegro ma non tanto [9'05]
+Format: FLAC[24/96]
 
 
 URL:
