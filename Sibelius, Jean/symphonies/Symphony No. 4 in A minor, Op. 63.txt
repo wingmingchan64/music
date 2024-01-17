@@ -35,7 +35,8 @@ https://www.youtube.com/watch?v=viwKNf5k7D0
 Symphony No. 4 (Sibelius)
 https://en.wikipedia.org/wiki/Symphony_No._4_(Sibelius)
 - third movement: slow instead of fast
-- the tritone is defined as a musical interval spanning three adjacent whole tones (six semitones)
+- every movement fades into silence
+- the tritone is defined as a musical interval spanning three adjacent whole tones (six semitones); for example, C–D–F♯ (C-C♯-D-D#-E-F-F#)
 
 Symphony no. 4 op. 63 (1911)
 https://www.sibelius.info/english/musiikki/ork_sinf_04.htm
