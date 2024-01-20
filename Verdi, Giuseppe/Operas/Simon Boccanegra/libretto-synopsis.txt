@@ -228,19 +228,12 @@ They’ll say nothing.
 (He calls everybody to him; pointing to the Fieschi palaces, he says to them in a mysterious voice)
 
 L'atra magion vedete?... 
-Do you see that dark abode?
-
 De' Fieschi è l'empio ostello,
-It is the wicked dwelling of the Fieschi – 
-
 Una beltà infelice geme sepolta in quello;
-Buried in there, a wretched beauty moans; Her
-
 Sono i lamenti suoi la sola voce umana
-laments are the only human voice that can be
-
 Che risuonar s'ascolta nell'ampia tomba arcana.
-heard echoing in that vast, mysterious tomb.
+
+Do you see that dark abode? It is the wicked dwelling of the Fieschi – Buried in there, a wretched beauty moans; Her laments are the only human voice that can be heard echoing in that vast, mysterious tomb.
 
 CORO:
 Già volgono più lune, che la gentil sembianza
@@ -248,45 +241,58 @@ Non allegrò i veroni della romita stanza;
 Passando ogni pietoso invan mirar desia
 La bella prigioniera, la misera Maria.
 
+It has been several months since that gentle face graced the lonely room’s veranda; every sympathetic man who passed by desired in vain to behold the beautiful prisoner, the miserable Maria.
+
 PAOLO:
 Si schiudon quelle porte solo al patrizio altero,
 Che ad arte si ravvolge nell'ombre del mistero...
 Ma vedi in notte cupa per le deserte sale
 Errar sinistra vampa, qual d'anima infernale.
 
+Those doors open only to high nobles, who purposely enshroud themselves in mysterious shadows. But on dark nights, one can see a sinister flame like a soul from Hell wandering through the dark rooms.
+
 CORO:
 Par l'antro de' fantasimi!... O qual terror!...
+It’s like a ghostly cavern! O what terror!
 
 PAOLO:
 Guardate,
+Watch,
 (Si vede il riverbero d'un lume)
+(the reflection of a light can be seen)
 La fatal vampa appare...
+The fatal flame appears…
 
 CORO:
 Oh ciel!...
+Oh Heavens!
 
 PAOLO:
 V'allontanate.
 Si caccino i demoni col segno della croce...
 All'alba.
+Leave now. May the demons be banished by the sign of the cross…
+At dawn.
 
 CORO:
 Qui.
+Here.
 
 PIETRO:
 Simon.
 
 CORO:
 Simone ad una voce.
+Simon, with a single voice.
 
 (Partono)
-
-
+(they leave)
 
 PROLOGO
 SCENA V
 
 Fiesco esce dal palazzo.
+Fiesco comes out of the palace.
 
 FIESCO:
 A te l'estremo addio, palagio altero,
