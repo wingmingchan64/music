@@ -2,51 +2,44 @@ Simon Boccanegra Libretto
 PROLOGO
 SCENA I
 
-Una Piazza di Genova.
-Nel fondo la chiesa di San Lorenzo. A destra il palazzo dei Fieschi con gran balcone: nel muro di fianco al balcone è un'immagine, davanti a cui arde un lanternino; a sinistra altre case. Varie strade conducono alla piazza. È notte.
+Una Piazza di Genova. Nel fondo la chiesa di San Lorenzo. A destra il palazzo dei Fieschi con gran balcone: nel muro di fianco al balcone è un'immagine, davanti a cui arde un lanternino; a sinistra altre case. Varie strade conducono alla piazza. È notte.
 
-A Piazza in Genoa.
-In the background the church of San Lorenzo. On the right the palace of the Fieschi family with a large balcony: in the wall beside the balcony is an image, in front of which a lantern is burning; on the left other houses. Various streets lead to the square. It is night.
+A Square in Genoa. In the background, the church of San Lorenzo. To the right the palace of the Fieschi with a large balcony: on the wall beside the balcony is a picture before which burns a lantern; to the left other houses. Various streets lead to the square. It is night. 
 
 Paolo e Pietro in iscena, continuando un discorso.
-Paul and Peter in iscena, continuing a speech.
+Paolo and Pietro on stage are continuing a discussion.
 
 PAOLO:
 Che dicesti?... all'onor di primo abate
-What did you say?... Who is to be elected Doge?
-
 Lorenzin, l'usuriere?...
-Lorenzin, the moneylender?...
+What are you saying? Lorenzin the moneylender for the honor of first abbot?
 
 PIETRO:
 Altro proponi
 Di lui più degno!
-Have you a worthier candidate?
+Suggest another who is more worthy!
 
 PAOLO:
 Il prode che da' nostri
-A brave man
-
 Mari cacciava l'african pirata,
-He freed our seas of African pirates.
-
 E al ligure vessillo
 Rese l'antica nominanza altera.
-Under him, our Genoa would proudly raise its banner once again.
+The warrior who drove the African pirates from our seas and restored to the Liguan banner it’s ancient high renown.
 
 PIETRO:
 Intesi... e il premio?...
-What prize do you offer?
+Indeed …and the reward?
 
 PAOLO:
 Oro, possanza, onore.
-Gold, power, honor.
+Gold, power, honour.
 
 PIETRO:
 Vendo a tal prezzo il popolar favore.
-I'll sell the people's favor for such a price!
+For such a price I’ll sell the people’s favor.
 
 (Si dan la mano; Pietro parte.)
+(they shake hands; Pietro leaves)
 
 PROLOGO
 SCENA II
@@ -111,14 +104,15 @@ Maria!
 PAOLO:
 Negarla 
 Al Doge chi potria?
-Her father could not keep her from a Doge!
+Who could keep her from the Doge?
 
 SIMONE:
 Misera!
+Poor girl!
 
 PAOLO:
 Assenti!
-Do you accept?
+Agree!
 
 SIMONE:
 Paolo...
@@ -126,16 +120,15 @@ Paolo...
 PAOLO:
 Tutto disposi... e sol ti chiedo
 Parte ai perigli e alla possanza...
-Everything is arranged.
-I ask only to share with you both peril and power.
+Everything’s arranged … All I ask of you is to take part in the peril and the power…
 
 SIMONE:
 Sia...
-So be it.
+So be it…
 
 PAOLO:
 In vita e in morte?...
-All our lives, until death?
+In life and in death?
 
 SIMONE:
 Sia.
@@ -143,86 +136,111 @@ Sia.
 PAOLO:
 S'appressa alcun... T'ascondi...
 Per poco ancor, mistero ti circondi.
-Someone is coming. Hide.
-Let secrecy surround you for a little while longer.
+Someone’s coming … hide yourself…
+Let mystery surround you for a little longer.
 
 (Simone s'allontana, Paolo si trae in
 disparte presso il palazzo dei Fieschi)
-
+(Simone goes off, Paolo places himself apart near the palace of the Fieschi)
 
 PROLOGO
 SCENA IV
 
 Paolo, Pietro, Marinari e Artigiani.
+Paolo, Pietro, Sailors and Artisans
 
 PIETRO:
 All'alba tutti qui verrete?
-You will all be here at dawn?
+Will you all be here at dawn?
 
 CORO:
 Tutti.
+All of us.
 
 PIETRO:
 Niun pei patrizi?...
-None of you will vote for a nobleman.
+None for the patricians?
 
 CORO:
 Niuno. - A Lorenzino
 Tutti il voto darem.
-We'll all give our vote to Lorenzin.
+No one. All votes will go to Lorenzino.
 
 PIETRO:
 Venduto è a' Fieschi.
-He sold himself to Fiesco.
+He has sold out to the Fieschi.
 
 CORO:
 Dunque chi fia l'eletto?
-Then whom will be elect?
+Then whom should we elect?
 
 PIETRO:
 Un prode.
+A man of courage. 
 
 CORO:
 Sì.
 
 PIETRO:
 Un popolan...
+A man of the people…
 
 CORO:
 Ben dici... ma fra i nostri
 Sai l'uom?
+So you say…but do you know of such a man among us?
 
 PIETRO:
 Sì.
 
 CORO:
 E chi?... Risuoni il nome suo!...
+Who then? Call out his name!
 
 PAOLO (avanzandosi):
 Simone Boccanegra.
 
 CORO:
 Il Corsar?
+The Corsair?
 
 PAOLO:
 Sì... il Corsaro all'alto scranno...
+Yes, the high-ranking Corsair…
 
 CORO:
 E qui?
+Is he here?
 
 PAOLO:
 Verrà.
+He will come.
 
 CORO:
 E i Fieschi?
+And the Fieschis?
 
 PAOLO:
 Taceranno.
+They’ll say nothing.
+
 (Chiama tutti intorno a sé; quindi, indicando il palazzo de' Fieschi, dice loro con mistero)
-L'atra magion vedete?... de' Fieschi è l'empio ostello,
+(He calls everybody to him; pointing to the Fieschi palaces, he says to them in a mysterious voice)
+
+L'atra magion vedete?... 
+Do you see that dark abode?
+
+De' Fieschi è l'empio ostello,
+It is the wicked dwelling of the Fieschi – 
+
 Una beltà infelice geme sepolta in quello;
+Buried in there, a wretched beauty moans; Her
+
 Sono i lamenti suoi la sola voce umana
+laments are the only human voice that can be
+
 Che risuonar s'ascolta nell'ampia tomba arcana.
+heard echoing in that vast, mysterious tomb.
 
 CORO:
 Già volgono più lune, che la gentil sembianza
