@@ -4,9 +4,9 @@ Recordings:
 ===========
 
 Arthur Grumiaux, London Symphony Orchestra, Colin Davis
-〚1〛Allegro moderato [']
-〚2〛Andante [']
-〚3〛Rondeau: Allegro [']
+〚1〛Allegro moderato [8'16]
+〚2〛Andante [6'32]
+〚3〛Rondeau: Allegro [4'03]
 Format: FLAC[24/96]
 
 
