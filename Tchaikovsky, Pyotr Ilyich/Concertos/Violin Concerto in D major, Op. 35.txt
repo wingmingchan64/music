@@ -23,9 +23,9 @@ Format: FLAC[16/44.1]
 Hurwitz's pick
 
 Ray Chen, Swedish Radio Symphony Orchestra, Daniel Harding
-〚1〛Allegro moderato [']
-〚2〛Canzonetta: Andante [']
-〚3〛Finale: Allegro vivacissimo [']
+〚1〛Allegro moderato [18'52]
+〚2〛Canzonetta: Andante [6'45]
+〚3〛Finale: Allegro vivacissimo [10'31]
 Format: FLAC[16/44.1]
 Gramophone's pick
 
