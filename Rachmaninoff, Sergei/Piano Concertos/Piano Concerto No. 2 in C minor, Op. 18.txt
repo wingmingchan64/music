@@ -9,7 +9,6 @@ Leif Ove Andsnes, Berliner Philharmoniker, Antonio Pappano
 〚3〛Allegro scherzando [11'29]
 Format: FLAC[16/44.1]
 
-
 Kirill Gerstein, Berliner Philharmoniker, Kirill Petrenko
 [00:09:12 - 00:40:39] Waldbühne, 2022, bluray video
 
@@ -18,6 +17,7 @@ Kirill Gerstein, Berliner Philharmoniker, Kirill Petrenko
 〚2〛Adagio sostenuto [10'39]
 〚3〛Allegro scherzando [10'40]
 Format: FLAC[24/48]
+Andsnes 的版本比較放，Gerstein 的比較收斂、含蓄。
 
 〚1〛Moderato [']
 〚2〛Adagio sostenuto [']
