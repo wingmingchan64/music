@@ -1,5 +1,16 @@
 Humperdinck,  Engelbert: Hänsel  und  Gretel (line 110)
 
+
+URL:
+====
+
+https://www.opera-arias.com/humperdinck/hansel-und-gretel/libretto/english/
+https://www.gutenberg.org/files/43289/43289-h/43289-h.htm
+
+
+Text:
+=====
+
 (Dürftige Stube. Im Hintergrunde rechts eine niedrige Tür, in der Mitte ein kleines Fenster mit Aussicht in den Wald. Links ein Herd [stove] mit einem Rauchfang [chimney] darüber. Gegenüber an der rechten Wand hängen Besen [brooms] in verschiedenen Formen. Hänsel, an der Türe mit Besenbinden, Gretel, am Herde mit Strumpfstricken  [knitting stockings] beschäftigt [busy], sitzen auf Schemeln [footstool] einander gegenüber.)
 
 Gretel.
@@ -108,16 +119,16 @@ Kommt Mutter nach Haus, und wir thaten nicht recht,
 Dann, weisst du, geht es den Faulpelzen [lazybone] schlecht.
 
 Hänsel.
-Arbeiten? Brr! Wo denkst du hin?
-Danach steht mir jetzt nicht der Sinn.
-Immer mich plagen, das fällt mir nicht ein,
+Arbeiten? Brr! Wo denkst du hin [adv. go]?
+Danach [about it] steht mir jetzt nicht der Sinn [the mind is not set on].
+Immer mich plagen [take pain], das fällt mir nicht ein [can't think of],
 jetzt lass uns tanzen und fröhlich sein!
-Gretel (entzückt).
 
+Gretel (entzückt [delighted; entzücken: to please]).
 Tanzen? Das wär' auch mir eine Lust!
 Dazu ein Liedchen aus froher Brust,
-wie's uns die Muhme gelehrt zu singen:
-Tanzliedchen soll jetzt lustig erklingen!
+wie's uns die Muhme [Tante] gelehrt zu singen:
+Tanzliedchen soll jetzt lustig erklingen [ring out]!
 (Klatscht in die Hände.)
 
 Brüderchen, komm, tanz' mit mir,
