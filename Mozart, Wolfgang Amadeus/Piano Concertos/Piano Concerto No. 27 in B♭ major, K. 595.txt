@@ -12,10 +12,10 @@ Format: SACD[DSD64]
 
 Richard Goode, Orpheus Chamber Orchestra
 〚1〛Allegro [13'35]
-〚2〛Larghetto [']
-〚3〛Allegro [']
+〚2〛Larghetto [7'40]
+〚3〛Allegro [8'20]
 Format: FLAC[16/44.1]
-Hurwitz' pick
+Hurwitz's pick
 
 
 〚1〛Allegro [']
