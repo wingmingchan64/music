@@ -11,7 +11,13 @@ Version: 1865/66 "Linz" [51'05]
 〚4〛Finale: Bewegt, feurig [36:27][14'38]
 Format: BR
 
-
+Bruckner Orchester Linz, Markus Poschner
+Version: 1891
+〚1〛Allegro [12'18]
+〚2〛Adagio [11'38]
+〚3〛Scherzo: Lebhaft, Trio: Langsam [8'45]
+〚4〛Finale: Bewegt, feurig [13'48]
+Format: FLAC[24/96]
 
 〚1〛Allegro [']
 〚2〛Adagio [']
