@@ -19,6 +19,14 @@ Version: 1891
 〚4〛Finale: Bewegt, feurig [13'48]
 Format: FLAC[24/96]
 
+Berliner Philharmoniker, Eugen Jochum
+Version: 1865/66
+〚1〛Allegro [12'38]
+〚2〛Adagio [12'34]
+〚3〛Scherzo: Schnell - Trio: Langsamer [8'54]
+〚4〛Finale: Bewegt, feurig [13'12]
+Format: FLAC[16/44.1]
+
 〚1〛Allegro [']
 〚2〛Adagio [']
 〚3〛Scherzo: Schnell [']
