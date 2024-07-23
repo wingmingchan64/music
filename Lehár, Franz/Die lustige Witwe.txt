@@ -1700,10 +1700,7 @@ Rider, you were all too dumb,
 Doch ich bin kein Gänschen!
 Still, I am no little goose!
 
-
-
 DANILO
-
 Reiter guckt und Reiter lacht
 Rider looks and rider laughs,
 
@@ -1716,31 +1713,21 @@ Maiden, maiden, of my choice,
 Ich komm nicht ein zweites Mal.
 I won't come a second time.
 
-
-
-
 HANNA
-
 Dummer, dummer Reiter, reitet, reitet weiter!
 Dumb, dumb rider, ride, ride on!
 
 Dummer, dummer Reitersmann!
 Dumb, dumb rider- man!
 
-
-
 DANILO 
-
 Kluger, kluger Reiter, reitet, reitet Weiter!  
 Clever, clever rider, ride, ride on!
 
 Kluger, kluger Reitersmann!
 Clever, clever Rider!
 
-
-
 HANNA
-
 Hoplahop und hoplaho!
 Hoplahop and hoplaho!
 
@@ -1753,8 +1740,6 @@ Dumb, dumb rider, ride, ride on!
 Dummer, dummer Reitersmann!
 Dumb, dumb rider- man!
 
-
-
 DANILO
 
 Kluger, kluger Reiter, reitet, reitet Weiter!  
@@ -1763,257 +1748,180 @@ Clever, clever rider, ride, ride on!
 Kluger, kluger Reitersmann!
 Clever, clever Rider!
 
-
-
 HANNA
-
 Dummer, dummer Reiter, reitet, reitet weiter! 
 Dumb, dumb rider, ride,ride on!
 
 Dummer, dummer Reitersmann!
 Dumb, dumb rider- man!
 
-
-
 ( Dialog)
-
-
 
 NO.  9
 
-
-
 ST. BRIOCHE, CASCADA, CHORUS
-
 Wie die Weiber...?
 How the women...?
 
-
-
-
-
 DANILO
-
 ...Man behandelt?
 .. .should be handled?
 
-
-
 ST. BRIOCHE, CASCADA, CHORUS
-
 Hört ihn an!
 Listen to him!
 
-
-
 DANILO
-
 Eine so, die And're anders,
 One like this, the other differently.
 
-Da gibt's keinen Feldzugsplan!
+Da gibt's keinen Feldzugsplan! [Feldzug: military campaign]
 There is no game plan for that.
 
-
-
 ZETA
-
 Dass die Weiber...
-That  the women...
-
-
-
+That the women...
 
 DANILO, ST. BRIOCHE, CASCADA, CHORUS
-
 Dass die Weiber?
 That the women?
 
-
-
 ZETA
-
 Treu uns bleiben...
 Stay faithful to us...
 
-
-
-
-
 DANILO, ST. BRIOCHE, CASCADA, CHORUS
-
 Also, wie?
 Well, then, how?
 
-
-
-ZETA DANILO
-
-Das hat man noch nicht ergründet,
+ZETA, DANILO
+Das hat man noch nicht ergründet, [ergründen: to fathom]
 That one has not yet established,
 
-
-
 ST. BRIOCHE, CASCADA, CHORUS
-
 Da gibt's keine Theorie
-For that  there is no theory!
+For that there is no theory!
 
 Da gibt's keine Theorie!
-For that  there is no theory!
-
-
+For that there is no theory!
 
 DANILO
-
 Der Einen macht man Complimente 
 To one one gives compliments
 
-        (with CHORUS)
+(with CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
-
-
 
 ZETA
-
-Und schmeichelt, streichelt ohne Ende:
+Und schmeichelt, streichelt [streicheln: to stroke, to caress] ohne Ende:
 And flatters, strokes without end:
 
-        (with CHORUS)
+(with CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
-
-
 
 ST. BRIOCHE
-
-Der Andern, muß man imponieren:
+Der Andern, muß man imponieren: [to impress]
 For others, one must put on airs:
 
-        (with CHORUS)
+(with CHORUS)
 
 So und so, und do und so!
 So and so, and so and so!
 
-
-
 CASCADA
-
 Man darf sie auch sogar sekieren:
 One may even reject them:
 
-        (with CHORUS
+(with CHORUS)
 
 So und so, und do und so!
 So and so, and so and so!
 
-
-
 DANILO
-
 Die Schwipse, die nach Haus' wir bringen:
 The tipsiness which we bring home:
 
-        (with CHORUS)
+(with CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
 
-Die Dritte, die will Zärtlichkeiten:
+Die Dritte, die will Zärtlichkeiten: [Zärtlichkeit: affection, tenderness]
 The third one wants tender attentions: 
 
-        (WITH CHORUS)
+(WITH CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
 
 Doch auswärts sind wir lose Falter:
 Still outwardly, we are loose butterflies:
 
-        (WITH CHORUS)
+(WITH CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
 
-
-
 ZETA
-
 Haus markieren will das Alter:
 The old one wants to mark the house:
 
-        (WITH CHORUS)
+(WITH CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
 
-Die Vierte die will zanken, streiten:
+Die Vierte die will zanken [to wrangle], streiten [to argue]:
 The fourth one wants to fight, argue:
 
-        (WITH CHORUS)
+(WITH CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
 
-
-
 CASCADA
-
 Die Fünfte will nur tanzen, lachen:
 The fifth one wants only to dance, laugh:
 
-        (with CHORUS)
+(with CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
 
-
-
 DANILO, ZETA, ST. BRIOCHE, CASCADA
-
 Dann wollen sie auch and're Sachen!
 They they want other things, too!
 
-        (with CHORUS)
+(with CHORUS)
 
-So und so, und do und so!
+So und so, und so und so!
 So and so, and so and so!
 
-
-
 DANILO, ZETA
-
-Ja, das Studium der Weiber is schwer
+Ja, das Studium der Weiber ist schwer
 Yes, the study of women is difficult,
 
 Nimmt uns männer verteufelt auch her!
 Puts a devilish task on us men!
 
-Niemals kennt doch an Seele und Leib
+Niemals kennt doch an Seele und Leib [body]
 Never can one know the soul and body
 
 Man das Weib -
 Of a woman -
 
-
-
 CHORUS AND OTHERS
-
 Ach, die Weiber, diese Weiber!
 Ah, the women, these women!
 
 Weib, Weib, Weib, Weib!
 Woman, woman, woman, woman!
 
-
-
-
-
 DANILO, ZETA
-
 Mädchen zart, Gretchenart, blondes Haar,
 Maiden tender, innocent air, blond hair,
 
@@ -2029,20 +1937,14 @@ Or dyed blond,
 's ist egal, man wird doch gegärbt.
 It doesn't matter, one will be foiled anyway.
 
-
-
 CHORUS AND OTHERS
-
 Weiber, Weiber, Weiber, Weiber, ja!
 Women, women, women, women, yes!
 
 Weiber, Weiber, Weiber, Weiber, ach!
 Women, women, women, women, ah!
 
-
-
 DANILO, ZETA, ST. BRIOCHE, CASCADA, CHORUS
-
 Ja, das Studium der Weiber ist schwer,
 yes the study of women is difficult,
 
@@ -2070,10 +1972,7 @@ Or dyed blond,
 's ist egal, man wird doch gegärbt.
 It doesn't matter, one will be foiled anyway.
 
-
-
 DANILO, ZETA
-
 Ja, das Studium der Weiber ist schwer,
 yes the study of women is difficult,
 
@@ -2086,10 +1985,7 @@ Never can one know the soul and body
 Man das Weib, Weib, Weib, Weib, Weib!
 Of a woman - Woman, woman, woman, etc.
 
-
-
 CHORUS AND REST
-
 Weiber, Weiber, Weiber, Weiber, Weiber!
 Women, women, women, women, women!
 
@@ -2102,10 +1998,7 @@ Women, women, women, women, women!
 Weib, Weib, Weib, Weib!
 Woman, woman, woman, woman!
 
-
-
 DANILO, ZETA, ST. BRIOCHE, CASCADA, CHORUS
-
 Mädchen zart, Gretchenart, blondes Haar,
 Maiden tender, innocent air, blond hair,
 
@@ -2121,58 +2014,38 @@ Or dyed blond,
 's ist egal, man wird doch gegärbt.
 It doesn't matter, one will be foiled anyway.
 
-  
-
 #10
 
 Er führt sie zu Maxim, dort ist er sehr intim...
 
-     
-
- (Dialog)
-
-
+(Dialog)
 
 No.  #  11
 
-
-
 CAMILLE
-
-Mein Freund, Vernunft!
+Mein Freund, Vernunft! [reason]
 My friend!  Be reasonable!
-
-
 
 CAMILLE
 
 Wie Sie mich quälen!
 How you torture me!
 
-
-
 VAlENCIENNE
-
 Ich will's.  Sie müssen sich vermählen!
 I want it!  You have to get married!
 
 Sie müssen heute noch mit Hanna sprechen.
 You have to speak to Hanna today.
 
-
-
 CAMILLE
-
 Nun gut!  Ich tu's,
 Very well!  I will do it,
 
 Doch wird das Herz mir brechen!
-Although  my heart will break!
-
-
+Although my heart will break!
 
 VALENCIENNE
-
 O,  glauben Sie es fällt mir schwer,
 O believe me, it is difficult for me,
 
@@ -2182,60 +2055,41 @@ Your love to renounce,
 Doch muss ich mich, so will's die Ehr',
 Yet, I must, thus honor decrees it
 
-Streng nach der guten Sitte richten!
+Streng nach der guten Sitte [practice, manner] richten!
 Strictly to follow good propriety!
 
-
-
 CAMILLE
-
 Muss ich für immer dich verlieren?
 Must I forever lose you ?
 
-
-
 VALENCIENNE
-
 Sie woll'n mich doch 
 You surely don't want 
 
 nicht compromettieren?
 to compromise me?
 
-
-
 CAMILLE
-
 Das will ich nicht!  Das darf ich nicht!
 I don't want to do that.  I must not do that!
 
-
-
 VALENCIENNE
-
 So ist es recht.  So hab' ich Dich lieb.   
 That is right to do.  That is the way I like you.
 
-
-
 CAMILLE
-
 Ich muß dich küssen.
 I must kiss you.
 
 VALENCIENNE
-
 Sie machen mich böse!
 You're making  me angry!
 
-
-
 CAMILLE
-
 Vergib!  Vergib, mein Lieb!
 Forgive!  Forgive, my love!
 
-Wie eine Rosenknospe
+Wie eine Rosenknospe [Knospe: bud]
 Like a rosebud
 
 Im Maienlicht erblüht,
@@ -2247,17 +2101,16 @@ Thus has in my heart
 Die Liebe aufgeglüht.
 Love begun to glow.  
 
-Das war ein selig Keimen,
+Das war ein selig Keimen, [germination]
 It was a blessed sprouting
 
-Von dem ich nichts geahnt,
+Von dem ich nichts geahnt, [ahnen: to forsee]
 Which I had no hint of,
-
 
 Ein wundersames Träumen,
 A wonderful dreaming,
 
-Das mich ans Glück gemahnt.
+Das mich ans Glück gemahnt. [mahnen: to remind]
 Which exhorted me to happiness.
 
 Und nun das Glück gekommen,
@@ -2266,42 +2119,32 @@ And now that happiness has come,
 Soll's wieder, wieder fort?
 Should it again, again flee?
 
-Das Maienlicht verglommen?
+Das Maienlicht verglommen? [gone out]
 The light of May cease glimmering?
 
-Die Knospe sie verdorrt?
+Die Knospe sie verdorrt? [verdorren: to wither]
 The bud wither away?
 
 Ein jauchzend, jubelnd Singen
 A rejoicing, exulting singing
 
-In meiner Seele schallt:
+In meiner Seele schallt: [schallen: to sound]
 Resounds in my soul:
 
-Es wird Dich mir erringen
+Es wird Dich mir erringen [to win]
 You will be vanquished
-
 
 Der Liebe Allgewalt. (bis)
 By the almighty power of love.  
 
-
-
 VALENCIENNE
-
 O Camille!
 Oh, Camille!
 
-
-
 CAMILLE  (wanting to embrace her)
-
 Valencienne!
 
-
-
 VALENCIENNE
-
 Nein sachte, sacht!
 No, gently, gently!
 
