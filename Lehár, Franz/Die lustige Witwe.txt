@@ -1530,7 +1530,7 @@ Vilja, O Vilja, was tust Du mir an?
 Vilja, O Vilja, what are you doing to me?
 
 Bang fleht ein liebkranker Mann!
-Fearfully begs  a lovesick man!
+Fearfully begs a lovesick man!
 
 Das Waldmägd'lein streckte 
 The woods-maiden stretched
@@ -1541,8 +1541,8 @@ Out her hand to him
 Und zog ihn hinein in ihr felsiges Haus.
 And pulled him into her cliff-dwelling.
 
-Dem Burschen die Sinne vergangen fast sind,
-The lad almost lost his senses, ( for)
+Dem Burschen die Sinne vergangen [vergehen: to loose] fast sind,
+The lad almost lost his senses, (for)
 
 So liebt und so küsst gar kein irdisches Kind.
 Thus loved and kissed no earthly child.
@@ -1553,7 +1553,7 @@ As soon as she was sated with kissing
 Verschwand sie zu derselben Frist!
 She disappeared at that moment!
 
-Einmal hat noch der Arme sie gegrüsst:
+Einmal hat noch der Arme sie gegrüßt: [grüßen: to greet]
 Just once did the poor lad wave to her:
 
 Vilja, o Vilja, Du Waldmägdelein,
@@ -1562,7 +1562,6 @@ Vilja, O Vilja, you little woods-maiden,
 Fass' mich und lass' mich 
 Take me and let me
 
-
 Dein Trautliebster sein!
 Be our dearest true love!
 
@@ -1570,36 +1569,26 @@ Vilja, O Vilja, was tust Du mir an?
 Vilja, O Vilja, what are you doing to me?
 
 Bang fleht ein liebkranker Mann!
-Fearfully begs  a lovesick man!
-
-
+Fearfully begs a lovesick man!
 
 CHORUS
-
 Vilja, o Vilja, Du Waldmägdelein,
 Vilja, O Vilja, you little woods-maiden,
 
 Fass' mich und lass' mich 
 Take me and let me
 
-
 Dein Trautliebster sein!
 Be our dearest true love!
 
-
-
 HANNA
-
 Vilja, O Vilja, was tust Du mir an?
 Vilja, O Vilja, what are you doing to me?
 
 Bang fleht ein liebkranker Mann!
 Fearfully begs  a lovesick man!
 
-
-
 CHORUS
-
 Mi velimo dase dase Veslimo!
 Mi velimo dase dase Veslimo!
 
@@ -1620,73 +1609,60 @@ Let us dance and let us spring!
 
 Mi velimo dase dase Veslimo!  Hei!
 
-
-
 (DIALOG )
-
-
 
 NO.  8 - DUET
 
-
-
 HANNA
-
 Heia, Mädel, aufgeschaut,
 Heigh ho, maiden, look up
 
-Guck' die schmucken Reiter!
+Guck' die schmucken [smart] Reiter!
 Look at the dapper riders!
 
 Nimmt dich einer wohl zur Braut
 Will one of them take you for his bride
 
-Oder sprengt er weiter?
+Oder sprengt [sprengen] er weiter?
 Or will he jump on farther?
 
 Heia, Mädel, lass' ihn nicht,
 Heigh ho, maiden, don't let him loose,
 
-Kann als Mann dir taugen!
+Kann als Mann dir taugen! [good for]
 He could serve you well as a husband!
 
-Guck' ihm keck ins Gesicht,
-Look him impudently  in the face,
+Guck' ihm keck [bold] ins Gesicht,
+Look him impudently in the face,
 
 Blitz' mit deinen Augen!
 Flashing  with your eyes!!
 
-
-
 DANILO
-
 Mädel schaut und Mädel guckt,
 Maiden peers and maiden looks
 
-Dass es ihm im Herzen zuckt.
+Dass es ihm im Herzen zuckt. [zucken: to twitch]
 'Till his heart quivers.
 
-
-
 HANNA
-
 Mädel zeigt trotzdem sie schweigt,
 Maiden shows despite her silence
 
-Dass sie sich in Lieb ihm neigt.
+Dass sie sich in Lieb ihm neigt. [neigen: to bend]
 That she bends to him in love.
 
 Dummer, dummer Reitersmann
-Dumb, dumb rider- man,
+Dumb, dumb rider-man,
 
-Der mich nicnt verstehen kann!
+Der mich nicht verstehen kann!
 Who can't understand me!
 
 Dummer, dummer Reiter, reitet, reitet weiter! 
 Dumb, dumb rider, ride, ride on!
 
 Dummer, dummer Reitersmann!
-Dumb, dumb rider- man!
+Dumb, dumb rider-man!
 
 Hoplahop und hoplaho!
 Hoplahop and hoplaho!
@@ -1698,7 +1674,7 @@ Dummer, dummer Reiter, reitet, reitet weiter!
 Dumb, dumb rider, ride, ride on!
 
 Dummer, dummer Reitersmann!
-Dumb, dumb rider- man!
+Dumb, dumb rider-man!
 
 Heia, Reiter, kehrt zurück,
 Heigh ho, rider, come back!
@@ -1709,7 +1685,7 @@ Hop!  his little horse prances,
 Wie er jetzt mit seinem Blick
 How he now with his glance
 
-Bittet und scherwenzelt!
+Bittet und scharwenzelt!
 Pleads and fawns!
 
 Mädel kümmert sich nicht drum,
