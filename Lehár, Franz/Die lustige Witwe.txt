@@ -739,7 +739,7 @@ VALENCIENNE
 Doch geht es leider nicht!
 Indeed that is unfortunately impossible!
 
-Drum leisten Sie Verzicht!
+Drum leisten Sie Verzicht! [Verzicht leisten: to renounce]
 Therefore, you must be resigned!
 
 Es muss ja leider sein!
@@ -1152,10 +1152,10 @@ VALENCIENNE
 Der junge Mann tanzt Polka,
 The young man dances the polka,
 
-Ich hab' es ausprobiert.
+Ich hab' es ausprobiert. [to try out]
 I have tried it out.
 
-Auch tanzt famos er Mazurka,
+Auch tanzt famos [excellently] er Mazurka,
 Also he fabulously dances the Mazurka,
 
 Ich hab' es ausprobiert.
@@ -1174,212 +1174,138 @@ Drum wird er von mir protegiert!
 Therefore he will be protected by me!
 
 Drum agitier' ich und affichier' ich,
-Therefore I agitate and put put up posters,
+Therefore I agitate and put up posters,
 
 Ach bitte, hören Sie mein Wahlplakat!
-Oh please, hear my campaign
-
-poster!
+Oh please, hear my campaign poster!
 
 Wählen Sie doch Rosillon!
 Do vote for Rosillon!
 
-
 Wählen Sie doch Rosillon!
 Do vote for Rosillon!
-
 
 Er ist der würdigste Tanzkandidat!
 He is the worthiest dance candidate!
 
-
-
-
 CASCADA
-
 Wählen Sie nur Cascada!
 Just vote for Cascada!
 
-
-
 MEN'S CHORUS
-
 Wählen Sie nicht Rosillon!
 Don't vote for Rosillon!
 
-
-
 ST. BRIOCHE
-
 Wählen Sie nur St. Brioche!
 Just vote for St. Brioche!
 
-
-
 MEN'S CHORUS
-
 Wählen Sie nicht Rosillon!
 Don't vote for Rosillon
 
-
-
 HANNA
-
 Aha, schon wieder ein Tanzkandidat!
 Aha! once again another dance candidate!
 
-
-
 VALENCIENNE, CASCADA, ST. BRIOCHE
-
 Er ist der würdigste Tanzkandidat!
 He is the worthiest dance candidate!
 
-
-
 MEN'S CHORUS
-
 Ich bin der würdigste Tanzkandidat!
 I am the worthiest dance candidate!
 
-
-
 CAMILLE
-
-Pardon, Madam', zu viel Reklam!
+Pardon, Madam', zu viel Reklam! [advertisement]
 Pardon, Madame, too much advertising!
 
-
-
 HANNA
-
 Das find' ich nicht  ...  doch nein ...
-I don't think so...  indeed not
+I don't think so...  indeed not ...
 
-...
-
-     (her eye catches Danilo)
-
+(her eye catches Danilo)
 Den ich als Tänzer möchte ... (to herself)
 The one I want as dance partner ...
 
-Ist Einer, der sich gibt den Schein,
+Ist Einer, der sich gibt den Schein, [appearance]
 Is one who seems to act,
 
 Als ob ich ihm egal möcht' sein.
 As though I don't make a difference to him.  
 
-                                  (to Danilo)
+(to Danilo)
 
 Sie sind wohl der Rechte!
 You are probably the right one!
 
-
-
 DANILO
-
 Ich?  Gnädige Frau, ich tanze nicht!
 I?  Gracious lady, I don't dance!
 
-
-
 HANNA (offended)
-
 So leisten Sie kurzweg Verzicht?
 So you abruptly renounce the claim?
 
-
-
 DANILO
-
 Verzicht?  O, nein!
 Renounce?  Oh, no!
 
 Der Tanz ist doch wohl mein?
 The dance is still mine, isn't it?
 
-
-
 HANNA
-
 Gewiss! Warum?
 Certainly!  Why?
 
-
-
 DANILO
-
 Nun, da der Tanz mein Eigentum,
 Now, in that the dance belongs to me,
 
 So darf mit ihm ich alles tun,
 So, I may do anything with it,
 
-Was mir beliebt, nicht wahr?
+Was mir beliebt [belieben: to like], nicht wahr?
 That pleases me, right?
 
-
-
 HANNA
-
 Nun, ja?
 Well, then?
 
-
-
 VALENCIENNE, CAMILLE, ST. BRIOICHE
-
-Was treibt er da?
+Was treibt [treiben: to pursue] er da?
 What is he pursuing there?
 
-
-
 DANILO
-
 Der Tanz, den mir die Gnädige gewährt,
 The dance, which the lady granted me
 
 Ist doch wohl zehntausend Francs wohl wert!
 Is surely worth 10,000 francs!
 
-Mir gehört der Tanz, ich verlang' dafür 
+Mir gehört der Tanz, ich verlang' dafür [verlangen: to demand]
 The dance belongs to me, I demand for it
 
 Zehntausend Francs zu wohltätigem Zweck!
 10,000 Francs for a charitable cause!
 
-
-
 CAMILLE, ST. BRIOCHE, CASCADA, MEN'S CHORUS
-
 'S ist unerhört!
 It's unheard of!
 
-
-
 DANILO
-
 Für diesen Preis geb' ich ihn weg!
 For that price, I will give it away!
 
-
-
 ST. BRIOCHE, CAMILLE, MEN'S CHORUS
-
 Zehntausend Francs?
 10,000 francs?
 
-
-
 ST. BRIOCHE   (to Cascada)
-
 Er ist verrückt!
 He is nuts!
 
-
-
 DANILO  (to himself)
-
 Sie geh'n!  
 They're going!
 
@@ -1389,33 +1315,20 @@ Now I am in luck!!
 Sehen Sie, meine Gnäd'ge, sehen Sie...
 See, gracious lady, see ...
 
-
-
 MEN'S CHORUS
-
 Zehntausend Francs!  Das ist zum lachen.
-10,000 francs!  That is laughable! 
-
-
-exit)
+10,000 francs!  That is laughable!  (exit)
 
 CASCADA
-
 Zehntausend Francs!
 10,000 Francs!    (exit)
 
-
-
 ST. BRIOCHE
-
 Das ist zum lachen!  
 That's laughable!   (exit)
 
-
-
 DANILO
-
-Wie sie aus dem Staub sich machen.
+Wie sie aus dem Staub sich machen. [sich aus dem Staub(e) machen: to clear off]
 How they leave us in the dust!
 
 Zahlen wollen die Herren nie!
@@ -1433,14 +1346,9 @@ Such are the gentlemen of today,
 Ein wirklich nobler Schlag!
 A truly noble type!!
 
-
-
-             (Hanna turns away angrily)
-
-
+(Hanna turns away angrily)
 
 CAMILLE  (to Valencienne)
-
 Den Angriff muss ich gleich parieren.
 This attack I must immediately parry.
 
