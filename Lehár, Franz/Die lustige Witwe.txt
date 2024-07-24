@@ -2438,21 +2438,19 @@ Was wetten wir, Du redest [reden] bald!  Redest bald!
 What shall we bet, you will speak soon!
 
 VALENCIENNE
-
 Ich fasse nicht ein einzig' Wort!
 I don't grasp a single word!
 
 Ja, will er wirklich von mir fort?               
 Well, does he really want to get away from me?
 
-Sein Liebeslied ist kaum noch verhallt.
+Sein Liebeslied ist kaum noch verhallt. [verhallen: to die away]
 His lovesong has been barely uttered.
 
 Er singt's vor ihr, wo mir allein 
- 
 He sings to her, where for me alone
 
-Dies Lied doch galt!
+Dies Lied doch galt! [gelten]
 This song concerns!
 
 Ist sie dahin so rasch,
@@ -2461,22 +2459,19 @@ Is it then so hasty,
 Der Liebe allgewalt?  Allgewalt!
 This allpowerful, allpowerful love!
 
-
-
 DANILO
-
-Ich höre wie verschwommen,
+Ich höre wie verschwommen, [hazy]
 I am hearing as though in a haze,
 
 Fasse auch nicht ein Wort!
 Also grasp not a word!
 
-Sie hat sich schön benommen!
+Sie hat sich schön benommen! [sich benehmen: to behave]
 She really behaved beautifully!
 
 (sarcastic!)
 
-Mir ist's nicht vergönnt, sie zu erringen,
+Mir ist's nicht vergönnt, [vergönnen: to grant] sie zu erringen,
 It was not granted me to win her,
 
 Doch mich lässt's nicht kalt!
@@ -2486,7 +2481,7 @@ Will mich zur Ruhe zwingen,
 Rather force me to be calm,
 
 Ich gehe und das bald!
-I am going -  and  soon!
+I am going - and  soon!
 
 Will mich zur Ruhe zwingen,
 Rather force me to be calm,
@@ -2494,16 +2489,11 @@ Rather force me to be calm,
 Gehen werd' ich und das bald!
 Go I will, and soon!
 
-
 Ja, sehr bald!
 Yes, very soon!
 
-
-
 ZETA
-
-
-Der Wahn is mir nun ganz benommen,
+Der Wahn ist mir nun ganz benommen, [dazed]
 The madness has now been all taken away,
 
 Zu ihr ist er gewiss gekommen.
@@ -2522,7 +2512,7 @@ Macht' ich ein Ende bald!
 I would put a stop to it soon!
 
 Bei solchen Dingen   
-With such things may others remain cold
+With such things
 
 bleib' ein And'rer kalt!
 May others (than I) remain cold!
@@ -2530,213 +2520,131 @@ May others (than I) remain cold!
 Bleib er kalt!
 May he remain cold!
 
- 
-
 (spoken dialog)
 
-
-
 HANNA
-
-Den Herrschaften hab' ich 
-  
+Den Herrschaften [lords] hab' ich 
 Ladies and gentlemen, I have
 
 'was zu erzählen!
 something to tell you!
 
-
-
 CHORUS
-
 Nun was?  Nun was?
 Now what?   now what?
 
-
-
 HANNA (looking intently at Danilo)
-
-Dass als Verlobte sich empfehlen
+Dass als Verlobte [fiancée] sich empfehlen
 That to become an engaged man, 
 
 
 Herr Rosillon ...
-Herr Rosillon  has proposed himself...
-
-
+Herr Rosillon has proposed himself...
 
 CAMILLE
-
 Was?  Ich?
 What?  Me?
 
-
-
 VALENCIENNE
-
 O, Gott!
 Oh, God!
 
-
-
 DANILO
-
 Ah schön!
 Ah,  that's fine!
 
-
-
 ZETA
-
 Wie?  Was? 
 How?  What?
 
-
-
 HANNA
-
 Und meine Wenigkeit!
-And my  insignificant self!
-
-
+And my insignificant self!
 
 CHORUS
 
 Ah, welche Neuigkeit!
 Ah what a bit of news!!
 
-
-
 VALENCIENNE
-
 Bin starr!
 I'm dumbfounded!
-
-
 
 CAMILLE
-
 Bin starr!
 I'm dumbfounded!
-
-
 
 DANILO
-
 Bin starr!
 I'm dumbfounded!
-
-
 
 ZETA
-
 Bin starr!
 I'm dumbfounded!
 
-
-
 HANNA
-
-Die Wirkung ist ganz wunderbar!
+Die Wirkung [effect] ist ganz wunderbar!
 The effect is just wonderful!
 
-
-
 CHORUS
-
 Wir gratulieren!
 We congratulate you !
 
-
-
 DANILO
-
-O, ihr verfluchten Millionen!
+O, ihr verfluchten [cursed] Millionen!
 Oh, you accursed millions!
 
-
-
 ZETA
-
 O, ihr verlor'nen Millionen!
 Oh, you lost millions!
 
-
-
 CAMILLE (softly to Hanna.)
-
 Das geht doch nicht!
 That simply won't do!
 
 Da muss ich protestier'n.
 There I must protest!
 
-
-
 HANNA (softly to Camille.)
-
 Dann werden Sie die Baronin blamier'n?
 Then you will compromise the baronesse?
 
-
-
-
 ZETA
-
 Sie wollen wirklich?
 You really want to?
 
-
-
 VALENCIENNE  (to Camille)
-
 Wirklich wollen Sie?
 Really, do you want to?
 
-
-
 HANNA
-
 Warum denn nicht?
 Well, why not?
 
 ZETA
-
 Ich bin dagegen und der Graf!
 I am against it - and so is the count!
 
-
-
 HANNA
-
 Sie auch?
 You, too?
 
-
-
 DANILO
-
 O nein, warum soll ich dagegen sein?
-Oh no, why should I be against it.?
+Oh no, why should I be against it?
 
-Ich gebe Ihnen meinen Segen!
+Ich gebe Ihnen meinen Segen! [blessing]
 I give you my blessing!
 
 Ich meine nur...
 I only think...
 
-
-
 HANNA
-
 Was meinen Sie?
 What do you think?
 
-
-
 DANILO
-
-Verlieb' Dich oft, verlob' Dich selten,
+Verlieb' [verlieben] Dich oft, verlob' [verloben] Dich selten,
 Fall in love often, get engaged seldom,
 
 Heirate nie!
@@ -2748,10 +2656,10 @@ Marriage is for me private,
 Ich rede nur als Diplomat,
 I'm just speaking as a diplomat,
 
-Wahrhaftig nur ein Standpunkt,
+Wahrhaftig [truly] nur ein Standpunkt,
 In all conscience, only from one standpoint,
 
-der längst überwunden.
+der längst überwunden. [overcome]
 Which has long since been exploded.
 
 Ein Zweibund sollte stets sie sein,
