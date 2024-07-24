@@ -2145,32 +2145,21 @@ CAMILLE  (wanting to embrace her)
 Valencienne!
 
 VALENCIENNE
-Nein sachte, sacht!
+Nein sachte, sacht! [gentle]
 No, gently, gently!
 
 Du hast mich um den Verstand gebracht!
-You have brought me to my wits
-
-end!
-
-
+You have brought me to my wits end!
 
 CAMILLE
-
 Zum Abschied, Du Süsse, einen letzten Kuss!
 In farewell, my sweet, one last kiss! 
 
-
-
 VALENCIENNE
-
 Doch nicht hier!
 But, not here!
 
-
-
 CAMILLE
-
 Sieh dort den kleinen Pavillon,
 Look over there at the little pavillion,
 
@@ -2180,10 +2169,10 @@ It can be most discretely silent!
 O, dieser kleiner Pavillon
 Oh, this little pavillion
 
-Plaudert nicht ein Wörtchen aus, o nein!
+Plaudert nicht ein Wörtchen aus, o nein! [ausplaudern: to let out]
 Won't gossip a tiny word about it, oh no!
 
-Dunkel uns umfängt
+Dunkel uns umfängt [umfangen: to embrace]
 Darkness will embrace us
 
 Nimm, was Liebe uns schenkt!
@@ -2195,37 +2184,25 @@ Come into the little pavillion,
 Komm zum süssen Rendezvous, o Du!
 Come to the sweet rendezvous, O you!
 
-
-
 VALENCIENNE
-
 Ich seh' schon, ich werd' hineingeh'n müssen.
 I see already, I will have to go inside.
 
-
-
 CAMILLE
-
 Komm in den kleinen Pavillon,
 Come into the little pavillion,
 
 Lass' zum letzten Mal dich küssen, ach!
 Allow, for the last time, me to kiss you, ah!
 
-
-
 VALENCIENNE
-
 Ist er verschwiegen?
 Is it (discretely) silent?
 
-Mir wird ganz schwach!
+Mir wird ganz schwach! [weak]
 I am getting all weak!
 
-
-
 CAMILLE, VALENCIENNE
-
 Dunkel uns umfängt
 Darkness will embrace us
 
