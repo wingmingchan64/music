@@ -2832,10 +2832,10 @@ Nein, dann spring' ich nicht hinein!  Nein!
 No, then I will not jump in!  No!
 
 DANILO  (angrily)
-In mir tobt es, in mir bebt es,
+In mir tobt [toben: to rage] es, in mir bebt [beben] es,
 In me, it's raging,  in me it is trembling,
 
-In mir zuckt es, in mir juckt es!
+In mir zuckt es, in mir juckt es! [jucken: to itch]
 In me, it's twitching,  in me it's itching!
 
 Halt's nicht aus!  Es muss heraus!
@@ -2850,16 +2850,13 @@ But, no so infuriated!
 Ruhig, ruhig mit Verstand!
 Calmly, calmly, with understanding!
 
-Zu der Vermählung, schöne Frau,
+Zu der Vermählung, [marriage] schöne Frau,
 For your betrothal, beautiful lady,
 
-Gestatten Sie eine Erzählung?
+Gestatten [allow me] Sie eine Erzählung?
 Will you permit a little tale?
 
-
-
 HANNA
-
 Gewiss, das ist ja interessant.
 Certainly, that is indeed interesting.
 
@@ -2872,10 +2869,7 @@ I am already very intent!
 Also, bitte!
 So, please proceed!
 
-
-
 DANILO
-
 Also bitte:
 Well, then:
 
@@ -2891,13 +2885,13 @@ They couldn't get together,
 Wie einst ein Dichter beschrieb.
 As once a poet described.
 
-Der Prinz, der blieb aber verschlossen,
+Der Prinz, der blieb aber verschlossen, [sealed]
 The prince remained silent,
 
 Er hatte dafür seinen Grund.
 He had his reason for that.
 
-Das hat die Prinzessin verdrossen,
+Das hat die Prinzessin verdrossen, [disgruntled]
 It vexed the princess,
 
 Warum er nicht auftat den Mund.
@@ -2908,7 +2902,6 @@ So then the lady princess
 
 Getrieben ein grausames Spiel,
 Pursued a cruel game,
-
 
 Sie gab ihre Hand einem Andern,
 She gave her hand to another,
@@ -2925,20 +2918,20 @@ You didn't do right at all in that,
 Du bist auch nicht besser wie And're
 You are not better, either, than others
 
-Vom schwachen, koketten Geschlecht!
+Vom schwachen, koketten Geschlecht! [gender]
 Of the weak, coquettish sex!
 
 Doch glaubst du, 
 But, do you think, 
 
-dass ich mich drob kränke?
+dass ich mich drob [darob, darüber] kränke? [sich kränken: to be upset]
 I will make myself sick over it?
 
-Haha!  Da täuschest du dich!
+Haha!  Da täuschest du dich! [sich täuschen: to be wrong]
 Haha!  There you kidding yourself!
 
 Im Traume ich nicht daran denke -
-In my  (wildest) dream, I wouldn't think of it -
+In my (wildest) dream, I wouldn't think of it -
 
 Das sagte der Prinz und nicht ich!
 The prince said this and not I!
@@ -2955,28 +2948,21 @@ Whereupon he thence went away -
 Und das tu' ich auch.  Compliment!
 And that I will do also.  My compliments!
 
-
-
 HANNA
-
 Wohin, denn Graf?  Wohin?
 Where to then, Count?  Where?
 
-
-
 DANILO
-
 Wohin?  Ich?  Ha!
 Where to?  I?   Ha!
 
 Dort, wo ich zuhause bin.
 There where I feel at home.
 
-      (with irony)
+(with irony)
 
 Ich gehe zu Maxim,
 I am go Maxim's
-
 
 Da bin ich sehr intim,
 There I feel comfortable and intimate,
@@ -2994,24 +2980,16 @@ Cloclo, Margot, Froufrou,
 Cloclo, Margot, Froufrou,
 
 Sie lassen mich vergessen,
-They allow me to  forget,
+They allow me to forget,
 
 Was mich so bang empfand!
 What made me feel so fearful!
 
-
-
-
-
 HANNA  (rejoicing to herself)
-
-Allein liebt er  mich, nur allein!
+Allein liebt er mich, nur allein!
 He loves only me, only me!
 
-
-
 HANNA
-
 Das hat Rrrasss" so, tra-la-la-la-la-la
 This has pizzazz so, tra-la-la-la-la-la
 
@@ -3027,10 +3005,7 @@ Then I won't jump into it, oh no, oh no,
 Nein, nein, nein, nein, nein, nein, nein, nein!  
 No, no, no, no, no, no, no, no!
 
-
-
 CAMILLE, ZETA, VALENCIENNE, CHOR
-
 Das hat Rrrasss" so, tra-la-la-la-la-la
 This has pizzazz so, tra-la-la-la-la-la
 
@@ -3040,36 +3015,23 @@ Makes fun for me so, tra-la-la-la-la-la
 Und sollt die Ehe anders sein, 
 And should the marriage be different,
 
-     (with Hanna)
+(with Hanna)
 
 Dann springt sie nicht hinein, o nein, o nein!  
 Then she won't jump into it, oh no, oh no!
 
-
-
-
-
-
 ACT 3  
-
-
 
 No.  14
 
-
-
 VALENCIENNE, THE GRISETTES
-
 Ja, wir sind es, die Grisetten
 Yes, it is us, the Grisettes
 
 Von pariser Kabaretten!
 From Parisian cabarets!
 
-
-
 VALENIENNE  (introducing one after another)
-
 Lolo!  Dodo!  Joujou, Froufrou!  Cloclo!
 Lolo!  Dodo!  Joujou, Froufrou!  Cloclo!
 
@@ -3082,16 +3044,13 @@ On the boulevard in the evening,
 Trippel-trapp und trippel-trapp -
 Trippel-trapp und trippel-trapp -
 
-Da flanieren wir Grisetten
+Da flanieren [to stroll] wir Grisetten
 There we saunter, we Grisettes,
 
 Coquettierend auf und ab!
 Flirting back and forth!
 
-
-
 THE GRISETTES AND VALENCIENNE
-
 Trippel-trapp und trippel-trapp -
 Trippel-trapp und trippel-trapp -
 
@@ -3103,11 +3062,8 @@ Trippel-trapp und trippel-trapp -
 
 Trippel-trapp und trippel-trapp !
 Trippel-trapp und trippel-trapp !
-
-
 
 VALENCIENNE
-
 Und mit Goldlackhalbstief'letten
 And with shiny golden laced half-boots,
 
@@ -3120,20 +3076,14 @@ And with hats, chic and coquettish,
 gehen wir dort auf und ab.
 We will go back and forth there.
 
-
-
 VALENCIENNE, THE GRISETTES
-
 Ja, so sind wir die Grisetten
 Yes indeed, we are the grisettes,
 
 von pariser Kabaretten,
 From Parisian cabarets.
 
-
-
 VALENCIENNE (again pointing to each girl)
-
 Lolo!  Dodo!  Joujou, Froufrou!  Cloclo!
 Lolo!  Dodo!  Joujou, Froufrou!  Cloclo!
 
@@ -3144,7 +3094,7 @@ Ritantouri tantirette
 Ritantouri tantirette
 
 Eh voilà les belles grisettes!
-Eh  there they are, the beautiful grisettes!
+Eh there they are, the beautiful grisettes!
 
 Les grisettes de Paris!
 The grisettes of paris!
@@ -3152,15 +3102,12 @@ The grisettes of paris!
 Ritantouri tantirette!
 Ritantouri tantirette!
 
-
-
 VALENCIENNE, THE GRISETTES
-
 Ritantouri tantirette
 Ritantouri tantirette
 
 Eh voilà les belles grisettes!
-Eh  there they are, the beautiful grisettes!
+Eh there they are, the beautiful grisettes!
 
 Les grisettes de Paris!
 The grisettes of paris!
@@ -3168,29 +3115,22 @@ The grisettes of paris!
 Ritantouri tantirette!
 Ritantouri tantirette!
 
-
-
 VALENCIENNE
-
 Wie die Spinnen in ihr Netzchen,
 As the spiders in their little nets,
 
 Zippel-zippel, zippel-zapp,
 Zippel-zippel, zippel-zapp,
 
-Sich die kleinen Falter fangen,
+Sich die kleinen Falter [butterfly] fangen,
 Catch themselves the little butterflies,
 
 Fangen wir die Männer, schwapp!
 We catch the men, - snap!
 
-
-
- VALENCIENNE, THE GRISETTES
-
+VALENCIENNE, THE GRISETTES
 Zippel-zippel, zippel-zapp!
 Zippel-zippel, zippel-zapp!
-
 
 Zippel-zippel, zippel-zapp!
 Zippel-zippel, zippel-zapp!
@@ -3200,11 +3140,8 @@ Zippel-zippel, zippel-zappel,
 
 Zippel-zippel, zippel-zapp!
 Zippel-zippel, zippel-zapp!
-
-
 
 VALENCIENNE
-
 Lassen Sie gern zippeln zappeln,
 Then we turn them loose again, now,
 
@@ -3217,37 +3154,26 @@ And then we will go on again
 Coquettierend auf und ab!
 Coquettishly flirting back and forth!
 
-
-
 THE GRISETTES AND VALENCIENNE
-
 Ja, so sind wir, die Grisetten
 Yes, indeed, we are the grisettes
 
 Von pariser Kabaretten!
 From Parisian cabarets!
 
-
-
 VALENCIENNE
-
 Lolo!  Dodo!  Joujou, Froufrou!  Cloclo!
 Lolo!  Dodo!  Joujou, Froufrou!  Cloclo!
 
 Margot!  Et moi!
 Margot and me!
 
-
-
-
-
 VALENCIENNE, THE GRISETTES
-
 Ritantouri tantirette
 Ritantouri tantirette
 
 Eh voilà les belles grisettes!
-Eh  there they are, the beautiful grisettes!
+Eh there they are, the beautiful grisettes!
 
 Les grisettes de Paris!
 The grisettes of paris!
@@ -3271,19 +3197,11 @@ The grisettes of paris!
 Ritantouri tantirette!
 Ritantouri tantirette!
 
-
-
 (DIALOG)
-
-
-
-
 
 #15
 
 DANILO
-
-
 
 Lippen schweigen, 's flüstern Geigen
 Lips fall silent, whispering are violins
@@ -3301,15 +3219,12 @@ deutlich mir's beschrieb
 Clearly described it to me
 
 Er sagt klar, 's ist wahr, 's ist wahr,
-He said clearly, it's true, it;s true,
+He said clearly, it's true, it's true,
 
 Du hast mich lieb!
 You love me!
 
-
-
 HANNA
-
 Warum?
 Why?
 
@@ -3319,7 +3234,7 @@ At each step of the waltz
 Tanzt auch die Seele mit,
 The soul will dance along,
 
-Da hüpft das Herzcchen klein,
+Da hüpft [hüpfen: to hop] das Herzchen klein,
 Then hops my little heart,
 
 Es klopft und pocht:  Sei mein!  Sei  mein!
@@ -3334,7 +3249,7 @@ Still it sounds on and continuously on:
 Ich hab' dich ja so lieb, ich hab' dich lieb!
 "I  do love you so, I love you!"
 
-     (looking at each other)
+(looking at each other)
 
 Jeder Druck der Hände
 Every press of the hands
@@ -3348,56 +3263,34 @@ He says clearly, it's true, it's true
 Du hast mich lieb!
 You love me!
 
-
-
 (Dialog)
-
-
 
 #16
 
-
-
 HANNA
-
 Ja, das Studium der Weiber ist schwer.
 Yes, the study of women is hard.
 
-
-
 MEN'S CHORUS
-
 Ach, die Weiber, diese Weiber!
 Oh the women, these women!
 
-
-
 ZETA
-
 Nimmt uns Männer verteufelt auch her!
 It's getting us men bedeviled!
 
-
-
 MEN'S CHORUS
-
 Ach, die Weiber, diese Weiber!
 Oh the women, these women!
 
-
-
 DANILO
-
 Niemals kennt doch an Seele und Leib
 Never will in body and soul
 
 Man das Weib - 
 Man know woman -
 
-
-
 ALL
-
 Weib, Weib, Weib, Weib!
 Woman, woman, woman, woman!
 
@@ -3407,10 +3300,7 @@ Tender girl, innocent face, blond hair,
 Mit dem treuesten Blauäugleinpaar.
 With the most loyal pair of blue eyes.
 
-
-
 MEN'S CHORUS
-
 Ob sie schwarz oder rot 
 Whether their hair is dyed 
 
@@ -3421,13 +3311,9 @@ s'ist egal,
 It makes no difference,
 
 man wird doch gegärbt.
- 
 we are still welded together.
 
-
-
 WOMEN'S CHORUS
-
 Ob wir schwarz oder rot 
 Whether our hair is dyed
 
@@ -3441,7 +3327,6 @@ Er wird doch gegärbt.
 He will be welded to us.
 
 DAS ENDE....
-
 
 Translation by Lea Frey 
 Copyright 1999, Lea Frey
