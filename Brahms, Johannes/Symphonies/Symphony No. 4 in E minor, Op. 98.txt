@@ -3,8 +3,8 @@ Brahms: Symphony No. 4 in E minor, Op. 98
 Recordings:
 ===========
 
-〚1〛 [']
-〚2〛 [']
-〚3〛 [']
-〚4〛 [']
+〚1〛Allegro non troppo [']
+〚2〛Andante moderato [']
+〚3〛Allegro giocoso [']
+〚4〛Allegro energico e passionato [']
 Format: FLAC[16/44.1]

@@ -3,8 +3,8 @@ Brahms: Symphony No. 2 in D major, Op. 73
 Recordings:
 ===========
 
-〚1〛 [']
-〚2〛 [']
-〚3〛 [']
-〚4〛 [']
+〚1〛Allegro non troppo [']
+〚2〛Adagio non troppo [']
+〚3〛Allegretto grazioso [']
+〚4〛Allegro con spirito [']
 Format: FLAC[16/44.1]
