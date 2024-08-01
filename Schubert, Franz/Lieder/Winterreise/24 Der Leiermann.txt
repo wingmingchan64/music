@@ -2,13 +2,13 @@
 Der Leiermann
 German source: Wilhelm Müller
 
-Drüben hinter’m Dorfe [village]
+Drüben hinter'm Dorfe [village]
 Steht ein Leiermann, 
 Und mit starren [sterr: rigid] Fingern 
 Dreht er was er kann.
 
 Barfuß auf dem Eise 
-Schwankt [schwanken: stagger, totter] er hin und her; 
+Wankt [wanken: stagger] er hin und her; 
 Und sein kleiner Teller 
 Bleibt ihm immer leer.
 
@@ -31,3 +31,5 @@ Recordings:
 ===========
 
 Roman Trekel, Ulrich Eisenlohr
+[4'17]
+Format: FLAC[16/44.1]
