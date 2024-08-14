@@ -135,12 +135,43 @@ Woglinde
 (lachend)
 Pruhstend naht meines Freiers [Freier: suitors] Pracht [splendor]!
 
+Alberich
+Mein Friedel sei, du fräuliches Kind!
+(Er sucht sie zu umfassen.)
+
+Woglinde
+(sich ihm entwindend) [to twist free]
+Willst du mich frei'n [to woo], so freie mich hier!
+(Alberich kratzt sich [to scratch] den Kopf.
+Woglinde taucht zu einem andern Riff auf.)
+
+Alberich
+O weh! du entweich'st?
+Komm doch wieder!
+Schwer ward mir, was so leicht du erschwingst.
+(Woglinde schwingt sich auf ein drittes Riff in größerer Tiefe.)
+
+Woglinde
+Steig' nur zu Grund,
+da greifst [to clasp] du mich sicher.
+
+Alberich
+(hastig hinab kletternd)
+Wohl besser da unten!
+
+Woglinde
+Nun aber nach Oben!
+
+(Sie schnellt sich rasch aufwärts
+nach einem höheren Riff zur Seite.)
+
 ==============================
 
 der Abgrund: abyss
 anhalten: to remain
 anlangen: to reach
 aufgehalten: stalled
+aufwärts: upward
 ausgleiten: to slip
 die Behändigkeit: agility
 belauschen: to eavesdrop
@@ -148,21 +179,26 @@ büßen: to pay for
 dämmern: to dawn (=> Dämmerung)
 entschlüpfen: to slip away
 entweichen: to escape
+sich entwinden: to twist oneself free from something
 erhaschen: to catch
 fangen: to catch
 feucht: humid, damp
 die Feuchte: humidity
 der Fluth: tides, flood
+freien: to woo
 Freier: suitors
+Friedel: a Southern German diminutive variation of the surname Fried
 die Furcht: fear
 garstig: nasty
 das Gekreisch: screeching
 glatt: slippery
 der Glimmer: mica
 glitschig, glitsch(e)riger: slippery
+greifen: to clasp
 hüten: to guard
 der Kauz: oddball, owl
 der Kobold: goblin
+sich kratzen: to scratch
 lugen: to peek
 lüstern: lecherous
 munter: merry
