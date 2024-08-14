@@ -10,9 +10,9 @@ These themes — or leading motives as they have come to be called are not mere 
 In consequence, a comprehensive analysis of The Ring would be an enormous
 task. It would involve clarifying the psychological implications of all the motives, and tracing their changing significance throughout the whole of their long and complex development. Nevertheless, understanding and enjoyment of the work can be greatly helped by simply establishing the identity of all the really important motives, and indicating what immediate dramatic symbols they stand for which is all that this introduction is intended to do. The motives are associated with four different types of dramatic symbol: characters, objects, events, and emotions. An example of a motive representing a character is the stern fanfare which introduces Hunding in Act One of Die Walküre.
 
-[1:53]
+[1:53] // time on the track
 EX. 1: HUNDING
-[W1.]
+[W1.4.00:00] // SACD track info
 
 An example of a motive representing an object is the genial theme associated with Freia’s Golden Apples. This is introduced in Scene Two of Das Rhinegold; it is sung by Fafner as he explains the value of the apples to Fasolt.
 
