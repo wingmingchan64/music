@@ -121,9 +121,19 @@ Nun nahe dich mir!
 doch wiederholt [repeated] aufgehalten, [stalled] der Spitze des Riffeszu.)
 
 [R1.03]
+Alberich
+(hastig)
+Garstig glatter [glatt: slippery] glitsch'riger [glitschig: slippery] Glimmer! [mica]
+wie gleit' ich aus [ausgleiten: to slip]!
+Mit Händen und Füßen nicht fasse noch halt' ich
+das schlecke[lousy] Geschlüpfer! [=> schlüpfen]
+Feuchtes [humidity] Naß füllt mir die Nase:
+verfluchtes [verflucht: cursed] Niessen! [to sneeze]
+(Er ist in Woglindes Nähe angelangt.)
 
-
-
+Woglinde
+(lachend)
+Pruhstend naht meines Freiers [Freier: suitors] Pracht [splendor]!
 
 ==============================
 
@@ -131,6 +141,7 @@ der Abgrund: abyss
 anhalten: to remain
 anlangen: to reach
 aufgehalten: stalled
+ausgleiten: to slip
 die Behändigkeit: agility
 belauschen: to eavesdrop
 büßen: to pay for
@@ -139,23 +150,34 @@ entschlüpfen: to slip away
 entweichen: to escape
 erhaschen: to catch
 fangen: to catch
+feucht: humid, damp
+die Feuchte: humidity
 der Fluth: tides, flood
+Freier: suitors
 die Furcht: fear
 garstig: nasty
 das Gekreisch: screeching
+glatt: slippery
+der Glimmer: mica
+glitschig, glitsch(e)riger: slippery
 hüten: to guard
 der Kauz: oddball, owl
 der Kobold: goblin
 lugen: to peek
 lüstern: lecherous
 munter: merry
+nass: wet
 sich necken: to tease
 neigen: to lean
 niedlich: cute
+niessen: to sneeze
+die Pracht: splendor
+prusten: to snort
 das Riff: reef
 scherzen: to joke
 die Schlucht: chasm
 schlank: slim
+schlecke: lousy
 schlummernd: slumbering
 schlüpfen: to slip
 schnellen: to shoot
@@ -166,6 +188,7 @@ stören: to disturb
 tauchen: to dive
 umgeben: surrounded
 umschlingen: to embrace
+verflucht: cursed
 verliebt: in love
 wallen: to swing
 wiederholt: repetitive, repeated
