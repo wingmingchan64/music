@@ -37,7 +37,7 @@ Flosshilde
 Des Goldes Schlaf hütet [hüten: to guard] ihr schlecht!
 Besser bewacht des schlummernden [slumbering] Bett,
 sonst büßt [büßen: to pay for] ihr beide das Spiel!
-(Mit munterem [munter: merry] Gekreisch [Screeching] fahren die beiden
+(Mit munterem [munter: merry] Gekreisch [screeching] fahren die beiden
 auseinander: Flosshilde sucht die eine, bald die
 andere zu erhaschen; [to catch] sie entschlüpfen [to slip away] ihr und ver-
 einigen sich endlich um gemeinsam auf Flosshilde
@@ -45,9 +45,9 @@ Jagd zu machen. So schnellen [to shoot] sie gleich Fischen von
 Riff zu Riff, scherzend [joking] und lachend.)
 (Aus einer finstern Schlucht [chasm] ist während [whereas] dem
 Alberich, an einem Riffe klimmend, dem Abgrunde [abyss]
-entstiegen. Er hält noch vom Dunkel umgeben [surrounding] an,
+entstiegen. Er hält noch vom Dunkel umgeben [surrounded] an,
 und schaut dem Spiele der Rheintöchter mit stei-
-gendem [increasing] Wohlgefallen [Pleasure] zu.)
+gendem [increasing] Wohlgefallen [pleasure] zu.)
 
 Alberich
 Hehe! ihr Nicker!
@@ -64,7 +64,7 @@ Wellgunde
 Es dämmert [dawn is breaking] und ruft! [A voice in the dark.]
 
 Flosshilde
-Lugt [lugen: to peek] wer uns belauscht! [belauschen: eavesdrop]
+Lugt [lugen: to peek] wer uns belauscht! [belauschen: to eavesdrop]
 (Sie tauchen tiefer herab und erkennen den Nibelung.)
 
 Woglinde, Wellgunde
@@ -77,3 +77,98 @@ Vater warnte vor solchem Feind.
 (Die beiden andern folgen ihr, und alle drei ver-
 sammeln sich schnell um das mittlere Riff.)
 
+Alberich
+Ihr, da oben!
+
+Rheintöchter
+Was willst du dort unten?
+
+Alberich
+Stör' [stören: to disturb] ich eu'r Spiel,
+wenn staunend [marvelling] ich still hier steh'?
+tauchtet ihr nieder, mit euch
+tollte und neckte der Niblung sich gern.
+
+Woglinde
+Mit uns will er spielen?
+
+Wellgunde
+Ist ihm das Spott? [mockery]
+
+Alberich
+Wie scheint im Schimmer ihr hell und schön!
+Wie gern umschlänge [umschlingen: to embrace] der Schlanken [slim] eine mein Arm,
+schlüpfte [schlüpfen: to slip] hold sie herab!
+
+Flosshilde
+Nun lach' ich der Furcht: [fear]
+der Feind ist verliebt! [in love]
+
+Wellgunde
+Der lüsterne [lüstern: lecherous] Kauz! [owl, oddball]
+
+Woglinde
+Laßt ihn uns kennen!
+(Woglinde läßt sich auf die Spitze des Riffes hinab,
+an dessen Fuße Alberich angelangt [anlangen: to reach] ist.)
+
+Alberich
+Die neigt sich herab.
+
+Woglinde
+Nun nahe dich mir!
+(Alberich klettert [klettern: to climb] mit koboldartiger [Kobold: goblin]  Behendigkeit, [=Behändigkeit: agility]
+doch wiederholt [repeated] aufgehalten, [stalled] der Spitze des Riffeszu.)
+
+[R1.03]
+
+
+
+
+==============================
+
+der Abgrund: abyss
+anhalten: to remain
+anlangen: to reach
+aufgehalten: stalled
+die Behändigkeit: agility
+belauschen: to eavesdrop
+büßen: to pay for
+dämmern: to dawn (=> Dämmerung)
+entschlüpfen: to slip away
+entweichen: to escape
+erhaschen: to catch
+fangen: to catch
+der Fluth: tides, flood
+die Furcht: fear
+garstig: nasty
+das Gekreisch: screeching
+hüten: to guard
+der Kauz: oddball, owl
+der Kobold: goblin
+lugen: to peek
+lüstern: lecherous
+munter: merry
+sich necken: to tease
+neigen: to lean
+niedlich: cute
+das Riff: reef
+scherzen: to joke
+die Schlucht: chasm
+schlank: slim
+schlummernd: slumbering
+schlüpfen: to slip
+schnellen: to shoot
+das Spott: mockery
+staunen: to marvel
+steigen: to increase
+stören: to disturb
+tauchen: to dive
+umgeben: surrounded
+umschlingen: to embrace
+verliebt: in love
+wallen: to swing
+wiederholt: repetitive, repeated
+das Wohlgefallen: pleasure
+während: whereas, during
+die Wiege: cradle
