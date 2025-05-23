@@ -1,0 +1,9 @@
+Sources of music
+
+1. CDs, SACDs, DVDs, bluray audio, bluray video
+2. lossless flac, WAV, ape, etc.
+3. SACD iso files, using iso2dsd to convert them to DSF files
+4. DVD ripped files, m2ts, mkv files
+
+
+https://www.prestomusic.com/classical/formats/blu-ray

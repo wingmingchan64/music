@@ -6,9 +6,9 @@ Equiment:
 2. Sennheiser 660S Headphones
 3. Focal Utopia 2022 headphones
 4. Naim NSC 222 Streaming Preamplifier
-5. Naim NAPS 300 Amplifier
-6. 5 Focal speakers
-7. Magnetar UDP900 blueray player
+5. Naim NAP 300 Amplifier
+6. 5 Focal speakers (Maestro Utopia EVO, Aria EVO X N.2, Focal 301 On Wall LCR Speaker)
+7. Magnetar UDP900 player
 8. Denon AVR-X3400H AV
 
 Software:
@@ -17,3 +17,4 @@ Software:
 2. VLC Media Player
 3. PowerDVD
 4. iso2dsd
+5. CUETools
