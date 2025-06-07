@@ -17,8 +17,9 @@ Format: SACD[DSD64]
 
 Vladimir Ashkenazy, London Symphony Orchestra, Lorin Maazel
 〚1〛Allegro non troppo e molto maestoso – Allegro con spirito [21'04]
-〚2〛Andantino semplice – Prestissimo – Tempo I 6
-46〚3〛Allegro con fuoco – Molto meno mosso – Allegro vivo [6'35]
+〚2〛Andantino semplice – Prestissimo – Tempo I [6'46].
+
+〚3〛Allegro con fuoco – Molto meno mosso – Allegro vivo [6'35]
 Format: SACD[DSD64]
 
 
