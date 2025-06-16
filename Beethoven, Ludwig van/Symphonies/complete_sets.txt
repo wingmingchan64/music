@@ -1,9 +1,14 @@
+Beethoven: Symphonies 1-9
+
 Video: bluray, DVDs, etc.
 BPO, Claudio Abbado
 WPO, Leonard Bernstein (DG)
 RCO, Iván Fischer
+Symphonieorchester des Bayerischen Rundfunks, Mariss Jansons
 Die Deutsche Kammerphilharmonie Bremen, Paavo Järvi
+Orchestre de l'Opéra National de Paris, Philippe Jordan
 BPO, Herbert von Karajan (SONY, 1980s)
+BOP, Simon Rattle
 WPO, Christian Thielemann
 
 Hi-Res: SACDs, DSF, etc.
@@ -16,6 +21,7 @@ Future Orchestra Classics, Joe Hisaishi （久石 譲） [24/192]
 LSO, Eugen Jochum
 BPO, Herbert von Karajan (1960s, 1970s)
 Munich Philharmonic Orchestra, Rudolf Kempe
+Czech Philharmonic Orchestra, Paul Kletzki
 Polish Chamber Philharmonic Orchestra, Wojciech Rajski
 WPO, Hans Schmidt-Isserstedt
 Orchestre de la Société des Concerts du Conservatoire, Carl Schuricht
@@ -23,4 +29,4 @@ Staatskapelle Berlin, Otmar Suitner
 Minnesota Orchestra, Osmo Vänskä
 The Netherlands Symphony Orchestra, Jan Willem de Vriend
 
-flac:
+flac: 70 sets (some repetitions in Video and SACDs)
