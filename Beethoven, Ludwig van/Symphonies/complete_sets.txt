@@ -11,8 +11,11 @@ BPO, Herbert von Karajan (SONY, 1980s)
 BOP, Simon Rattle
 WPO, Christian Thielemann
 
-Hi-Res: SACDs, DSF, etc.
+Hi-Res: SACDs, DSF, bluray audio, DVDA, etc.
 Osaka Philharmonic Orchestra, Takashi Asahina （朝比奈 隆）
+Staatskapelle Berlin, Daniel Barenboim
+WPO, Leonard Bernard
+WPO, Karl Böhm
 Orchestra of the 18th Century, Frans Brüggen
 BPO, André Cluytens
 Special Edition, LSO, Bernard Haitink
@@ -28,5 +31,6 @@ Orchestre de la Société des Concerts du Conservatoire, Carl Schuricht
 Staatskapelle Berlin, Otmar Suitner
 Minnesota Orchestra, Osmo Vänskä
 The Netherlands Symphony Orchestra, Jan Willem de Vriend
+NDR-Sinfonie Orchester, Günter Wand
 
-flac: 70 sets (some repetitions in Video and SACDs)
+flac: 70 sets (some repetitions in Video and SACDs), not counting those compiled in collections of conductors, like Bernstein, Solti, and so on.
