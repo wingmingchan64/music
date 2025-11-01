@@ -2,11 +2,11 @@
   Albums & Artists
     Accardo - Audiophile Violin DSF
     Accardo - Vesuvio 1727 DSF
-    Accardo, Manzini - Omaggio a Heifetz
-    Ansermet - Ravel, Honegger, Dukas, Chabrier
+    Accardo, Manzini - Omaggio a Heifetz DSF
+    Ansermet - Ravel, Honegger, Dukas, Chabrier DSF
     Argenta - España DSF
-    Arrangements or Transfigurations
-    Arrau -  Piano Works
+    Arrangements or Transfigurations DSF
+    Arrau -  Piano Works DSF
     Bayless - Romantica
     Brightman, Sarah
       Eden DSF
@@ -20,9 +20,9 @@
       The Andrew Lloyd Webber Collection
       Time To Say Goodbye DSF
     Carreras - Passion
-    Classic Heartstrings
-    Cluytens - Musique Russe
-    Czech Philharmonic Orchestra Plays Studio Ghibli Symphonic Collection
+    Classic Heartstrings DSF
+    Cluytens - Musique Russe DSF
+    Czech Philharmonic Orchestra Plays Studio Ghibli Symphonic Collection DFF
     Dana Zemtsov & Anna Fedorova - Silhouettes DSD256
     DePreist - Incredible Audiophile Sound Selection  DSF
     Deliyska, Dora - Alles Walzer, einmal anders!  DSF
@@ -30,28 +30,25 @@
     Family Concert
     Famous Baroque Melodies
     Fantasia 2000
-    Fischer - Russian Violin Concertos
-    Friedhelm Flamme in Bockhorn - Radeck, Steffens, Hanff, etc. Organ Works
+    Fischer - Russian Violin Concertos DSF
+    Friedhelm Flamme in Bockhorn - Radeck, Steffens, Hanff, etc. Organ Works DSF
     Friedman - Violin Showpieces DSF
     Galway Greatest Hits
-    Geinoh Yamashirogumi – Symphonic Suite AKIRA 2016
-    Gergely, Bogányi - Chopin The Complete Nocturnes
-      Disc 1
-      Disc 2
+    Geinoh Yamashirogumi – Symphonic Suite AKIRA 2016 DFF
     Hauser
+      Christmas
       Classic (2020) [24-96]
       Classic II [24-96]
-      Hauser - Christmas
       The Player [24-96]
-    Heifetz, Jascha
+    Heifetz, Jascha DSF
       Bach, Mozart
       Beethoven; Mendelssohn
       Brahms; Tchaikovsky
       Sibelius, Prokofiev 2, Glazunov
-    Herbert von Karajan and BPO in Japan 1966 Matsuyama
-    Herbert von Karajan and BPO in Japan 1966 Tokyo
+    Herbert von Karajan and BPO in Japan 1966 Matsuyama DSF
+    Herbert von Karajan and BPO in Japan 1966 Tokyo DSF
     Hi-Fi Fiedler DSF
-    I Musici - Serenata Italiana  DSF
+    I Musici - Serenata Italiana DSF
     Il Divo
       A Musical Affair
       A Musical Affair (French Version)
@@ -67,21 +64,22 @@
       Timeless
       Wicked Game
       Wicked Game [JP]
-    Itzhak Perlman Play Fritz Kreisler
-    Jacqueline du Pré - The Great Cello Concertos
+    Itzhak Perlman Play Fritz Kreisler DSF
+    Jacqueline du Pré - The Great Cello Concertos DSF
       Elgar, Delius
       Haydn, Boccherini
       Saint-Saëns, Lalo, Monn
       Schumann, Dvořák
-    Joe Beck & Ali Ryerson – Django  DSF
-    John Williams in Vienna
+    Jazz At The Pawnshop [DSD128]
+    Joe Beck & Ali Ryerson – Django DSF
+    John Williams in Vienna DSF
       1
       2
     Karajan
       Adagio DSF
       Aufforderung zum Tanz DSF
-      Herbert von Karajan in Paris, 1960 & 1962
-      Karajan - Overtures and Preludes
+      Herbert von Karajan in Paris, 1960 & 1962 DSF
+      Karajan - Overtures and Preludes DSF
       Karajan Gold
         Vol.01.Beethoven 9 Symphony.CD1
         Vol.01.Beethoven 9 Symphony.CD2
@@ -119,14 +117,14 @@
       Opern-Intermezzi DSF
       Opernballette DSF
     Kavakos - Accustic Arts DSF
-    Kavakos - Finest Music Components
+    Kavakos - Finest Music Components DSF
     Kempe - Vienna Philharmonic on Holiday DSF
       Nights in Vienna
       Overtures
       Vienna Philharmonic on Holiday
       Viennese Bonbons
       Wagner
-    Klemperer conducts RCO
+    Klemperer conducts RCO DSF
       01
       02
       03
@@ -151,27 +149,27 @@
       22
       23
       24
-    Koljonen - Heartbreak  DSF
-    Kondrashin - Masquerade Suite - The Comedians, Capriccio italien, Capriccio espagnol
-    Konwitschny Eurodisc Recordings
+    Koljonen - Heartbreak DSF
+    Kondrashin - Masquerade Suite - The Comedians, Capriccio italien, Capriccio espagnol DSF
+    Konwitschny Eurodisc Recordings DSF
       Bruckner, Wagner
       Dvořák, Beethoven, Liszt
     LSO - Victoria's Secret
-    Maksim - The Piano Player
+    Maksim - The Piano Player DSF
     Maria Callas, The Very Best of
-    Marsalis, Wynton - The London Concert
+    Marsalis, Wynton - The London Concert DSF
     Oistrach
       CD1
       CD2
     Opera Gold
     Operamania
-    Oscar's Motet Choir - Cantate Domino
+    Oscar's Motet Choir - Cantate Domino DSF
     Page, Ian, The Mozartists
       Sturm und Drang Vol 1 24-96
       Sturm und Drang Vol 2 24-96
-      Sturm und Drang, Vol.3  [24bit-192]
-    Peter Paul And Mary
-    Richter, Sviatoslav
+      Sturm und Drang, Vol.3  [24-192]
+    Peter Paul And Mary DSF
+    Richter, Sviatoslav DSF
       Karajan - Tchaikovsky 1, Rachmaninov 2
       Piano Concertos
         Antonin Dvorak Piano Concerto in G Minor, Op.33, B.63 & Sergei Prokofiev _ Piano Concerto No.5 in G
@@ -181,45 +179,41 @@
     Rieu, André
       My Music My World The Very Best Of Andre Rieu
       Serenata
-    Romance In Venice
-    Rozhdestvensky - Russian Orchestral Favourites
-    Russian Orchestral Works
+    Romance In Venice DSF
+    Rozhdestvensky - Russian Orchestral Favourites DSF
+    Russian Orchestral Works DSF
       1
       2
-    Sanderling
-      Kurt Sanderling _ Staatskapelle Dresden _ 18 October 1973 _ Disc 1
-        Disc 1
-      Kurt Sanderling _ Staatskapelle Dresden _ 18 October 1973 _ Disc 2
-        Disc 2
-    Sanderling - Weber, Mozart, Tchaikovsky
-    Schmitt - Organ and Orchestra - Touching Colours
+    Sanderling - Wagner, Beethoven, Brahms, Weber DSF
+    Sanderling - Weber, Mozart, Tchaikovsky DSF
+    Schmitt - Organ and Orchestra - Touching Colours DSF
     Serenade
     Severinsen, Kunzel - Trumpet Spectacular
     Spanish Guitar
-    Spanish Impressions
+    Spanish Impressions DSF
     Stern - Humoresque Favourite Violin Encores
-    Stokowski - Thomson The Plow That Broke the Plains, The River
+    Stokowski - Thomson The Plow That Broke the Plains, The River DSF
     Stoltzman
       Stoltzman Romantic Clarinet
       Stoltzman The Essental Clarinet
-    Suwanai - Poème
-    Sviatoslav Richter - Live in Paris 1961, 1977 & 1980 (2021) [SACD]
+    Suwanai - Poème DSF
+    Sviatoslav Richter - Live in Paris 1961, 1977 & 1980 (2021) DSF
     Terfel The Vagabond
-    The Art of David Oistrakh
+    The Art of David Oistrakh DSF
       Disc 1
       Disc 2
     The Art of the Prima Donna
-    The Film Music of Jerry Goldsmith
-    The Power Of The Orchestra
-    The Stockholm Cathedral Choir - Now the Green Blade Riseth
-    The Tube Only Night Music
-    The Unknown Michelangeli
-    The bohemian Album
+	The Bohemian Album DSF
+    The Film Music of Jerry Goldsmith DSF
+    The Great Jazz Trio - S' Wonderful DSF
+    The Power Of The Orchestra DSF
+    The Stockholm Cathedral Choir - Now the Green Blade Riseth DSF
+    The Tube Only Night Music DSF
+    The Unknown Michelangeli DSF
     Thomas Voice Of Hope
     Victoria's Secret
-    Welcome to the Top of the World
-    Wispelwey - Tchaikovsky, Saint-Saëns, Bruch  DSF
-    the great jazz trio - S' Wonderful
+    Welcome to the Top of the World DSF
+    Wispelwey - Tchaikovsky, Saint-Saëns, Bruch DSF
   Audio System Test cd2
   Collections
     Neujahrskonzert
