@@ -4,9 +4,9 @@ php h:\github\music\_music_room\list_dir.php
 */
 
 $par_path = 'e:';
-$dir_name = 'Collections';
+$dir_name = '';
 
-list_dir( $par_path, $dir_name, '  ' );
+list_dir( $par_path, $dir_name, '' );
 
 function list_dir(
 	string $par_path,

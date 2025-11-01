@@ -347,17 +347,17 @@
       LP6- Beethoven Egmont - Complete Incidental Music, Op.84
     劉漢盛
       001 The Artistry Of Teresa Perez
-      002 Stokowski - Rhapsodies
+      002 Stokowski - Rhapsodies DSF
       003 Béla Fleck and the Flecktones - Flight of the Cosmic Hippo
         Greatest Hits of the 20th Century
       004 Britten - Noye's Fludde, The Golden Vanity
       005 Metallica
       006 Isabelle Antena - De l'amour et des hommes
-      017 Jazz at the Pawnshop 30th Anniversary
+      017 Jazz at the Pawnshop 30th Anniversary DSF
         1
         2
         3
-      056 Ansermet - Royal Ballet Gala Performances
+      056 Ansermet - Royal Ballet Gala Performances DSF
         1
         2
       092 The Rock (Expanded)
@@ -366,3 +366,9 @@
       093 Independence Day
       099 王宏偉 - 黃河遙遙
       100 暢響
+  Favorite_tracks
+    Classical
+    New Age
+    Songs
+    中國音樂
+    中文歌 
