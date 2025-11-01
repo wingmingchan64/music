@@ -3,10 +3,10 @@
 php h:\github\music\_music_room\list_dir.php
 */
 
-$par_path = 'e:';
-$dir_name = '';
+$par_path = 'i:';
+$dir_name = '_multi_channel';
 
-list_dir( $par_path, $dir_name, '' );
+list_dir( $par_path, $dir_name, '  ' );
 
 function list_dir(
 	string $par_path,

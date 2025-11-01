@@ -1,0 +1,283 @@
+7 Magnetar
+  _multi_channel
+    Albinoni
+      Matt - Albinoni Oboe Concertos_5
+    Bach
+      Bach, Vivaldi - Concertos_5
+      Jacobs - Matthäus-Passion_6
+        1
+        2
+      Junghänel - Actus Tragicus_5
+      Kuijken, La Petite Bande_5
+        16, 153, 65, 154
+        55, 56, 98, 180
+        82,178, 102
+        93, 135, 177
+      Organ
+        Biggs - Bach The Four Great Toccatas and Fuges_6
+        The Complete Organ Works_5
+          01
+          02
+          03
+          04
+          05
+          06
+          07
+          08
+          09
+          10
+          11
+          12
+          13
+          14
+          15
+          16
+          17
+          18
+          19
+        Toccata and Fugue. Organ surround illusion_5
+      Starker - Suites for Solo Cello_5
+        Disc 1
+        Disc 2
+    Bartók
+      Bartók Quartets
+        1, 2
+        5, 6
+      Gergiev - Bluebeard's Castle_6
+    Beethoven
+      Ax, Thomas - Beethoven PC 3, Mass_6
+      Bavouzet - Beethoven PCs, Grand Quintet, Op. 16_5
+work
+      Davis - Fidelio_6
+      Honeck - Beethoven 5, 7_5
+      Kubelilk - Beethoven_5
+        2, 5
+        6
+        7, 8
+        9
+      RPO - Beethoven Symphonies_6
+        1, 2
+        10
+        3
+        4, 5
+        6
+        7, 8
+        9
+      Rajski - Beethoven_5
+        1, 2
+        3, 4
+        5, 6_6
+        7, 8
+        9_6
+      Rubinstein - Sonatas_5
+      Vänskä - Beethoven_5
+      Zinman - Beethoven 7, 8_6
+    Berlioz
+      Järvi, P - Berlioz Symphonie Fantastique_6
+      La mort de Cleopatre_6
+    Brahms
+      Bychkov - Brahms_5
+        1
+        2
+        3, 4
+      Jansons - Ein deutsches Requiem
+      Swenson - Brahms Violin Concerto and Hungarian Dances
+    Bruckner
+      Honeck - Bruckner 7, Bates_ Resurrexit_5
+      Järvi, P - Bruckner 9_6
+    Buxtehude
+      Works for Organ_5
+    Chopin
+      Arrau
+        Complete Preludes; Robert Schumann Papillons Op.2_5
+      Pizarro - Piano Sonatas_6
+      Rubinstein
+        PC 1, 2 DSF
+    Corelli
+      Arcangelo Corelli - Opus 6_ Concerti Grossi_6
+        Disc 1
+        Disc 2
+      Corelli - Violin Sonatas op. 5_6
+        1-6
+        7-12
+    Dukas, Ravel, Koechlin_5
+    Dvořák
+      String Quartet No.11 in C, Op.61 B 121 - Cypresses (12) B 152_6
+      String Quartet No.8 Op.80, Miniatures B 149, Cypresses B 152_5
+      String Quartets No.10 Op.51, No.11 Op.61- Complete set Vol.VIII_5
+      String Quartets No.12 Op.96 _American_, No.14 Op.105, Terzetto Op. 74_5
+      String Quartets No.9 Op.34, No.13 Op.106_6
+      Zemlinsky Quartet  - Dvořák SQ12, 14_5
+    Gershwin
+      Rogé - Gershwin_Ravel_6
+    Grieg
+      Rubinstein - Grieg Rachmaninoff_6
+    Górecki
+    Holst
+      Lloyd-Jones - The Planets_5
+    Händel
+      Marriner - Wassermusik & Feuerwerksmusik_6
+      Somary - The Water Music; Royal Fireworks Music_5
+    Janáček
+    Liszt
+      Dorati - Enesco, Liszt Rhapsodies_5
+      Liszt - 12 Etudes d'exécution transcendante
+      Orgelwerke Vol. 1_6
+      Orgelwerke Vol. 2_6
+    Mahler
+      Zinman - Das Lied von der Erde_5
+    Mendelssohn
+      Chen, Glover - Mendelssohn Violin Concerto
+      Gardiner - 5, Overtures_6
+      Symphony No 5, Overtures_ Ruy Blas & Calm Sea and Prosperous Voyage_6
+    Mozart
+      Bautigam - Mozart_5
+      Fröst - Clarinet Concerto, Quintet_5
+      Karajan - Requiem_6
+      Mackerras - Mozart Late Symphonies_6
+      Otto - Requiem_5
+      Savall - Mozart_5
+      Silverman - Mozart PS_5
+      Zacharia_6
+        13, 6, 16
+   Mozart Piano Concertos Vol 7
+        17, 18
+   Mozart Piano Concertos Vol 3
+        19, 20
+   Mozart Piano Concertos Vol 4
+        21, 14, 15
+   Mozart Piano Concertos Vol 6
+        22, 27
+   Mozart Piano Concertos Vol 1
+        24, 25
+   Mozart Piano Concertos Vol 8
+        26, 12
+   Mozart Piano Concertos Vol 9
+        5, 8, 23
+   Mozart Piano Concertos Vol 5
+        9, 11
+   Mozart Piano Concertos Vol 2
+    Muffat
+      Kelemen - Apparatus musico-organisticus_5
+        Disc 1
+        Disc 2
+    Mussorgsky
+      Reiner - Pictures at an Exibition_5
+      Slatkin - Pictures At An Exhibition and other works_5
+    Paganini
+      What about this Mr Paganini
+    Prokofiev
+      PROKOFIEV_ ALEXANDER NEVSKY; MUSSORGSKY_ PICTURES AT AN EXHIBITION_5
+      Rajski - Prokofiev, Saint-Saëns_5
+    Purcell
+      FANTASIAS FOR THE VIOLS, 1680_5
+      Savall - Purcell The Fairy Queen and The Prophetess_5
+    Rachmaninoff
+      Scherbakov - Piano Concertos Nos. 2 and 3_5
+    Ravel
+      Boulez - Ravel
+        DG
+          Disc 1
+          Disc 2
+        SONY
+      Orchestral Works_5
+      Párkányí Quartet - Ravel, Debussy SQ_5
+      Skrowaczewski - Ravel Selected Orchestral Works_5
+    Rimsky-Korsakov
+      Reiner - Scheherazade_5
+    Rodrigo
+      Williams_6
+    Saint-Saëns
+      Rubinstein - Saint-Saëns, Franck, Liszt_5
+    Scarlatti, A
+      Griselda_5
+        1
+        2
+        3
+    Schönberg
+      Gurrelieder_6
+        1
+        2
+      String Quartets_5
+        1, 3
+        2, 4
+          Arnold Schoenberg - String Quartets Nos 2 & 4
+    Shostakovich
+      Jansons - Shostakovich 10_5
+      Kofman - Shostakovich_6
+        10
+        11
+        13
+        14
+        15, 3
+        2, 12
+        4
+        5, 9
+        6, 1
+        7
+        8
+      Shostakovich_Gubaidulina_6
+    Strauss, J
+      Kreisberg - Walzer_5
+    Tchaikovsky
+      Gerstein - Tchaikovsky, Prokofiev Piano Concertos_5
+      Järvi, N - Sleeping Beauty_5
+        1
+        2
+      Kunzel - 1812_6
+      Tchaikovsky_ Piano Concertos 1, 3_5
+    Vivaldi
+      Twelve Violin Concertos Op. 8_6
+        Disc 1
+        Disc 2
+    _Artists & Albums
+      Accardo - Il Cremonese_5
+      Arne Domnérus with Gustav Sjökvist - Antiphone Blues
+      Brightman - La Luna_6
+      Dire Strait
+        Dire Strait - Brothers In Arms_6
+        On Every Street_2
+      Feller - Phantômes - An Organ Spectacular_5
+      Genaux, Jacobs - Arias for Farinelli_5
+      Huijnen, Grotenhuis - Dance!_6
+      Isserlis - Re-Visions_5
+      Lien - Bleeding Wolves_6
+      Mutter - Carmen-Fantasie_6
+      PentaTone Limited Vol.I The best of PentaTone_5
+      Price, Reiner - Spain_5
+      Savall_5
+        Orient - Occident
+        Orient - Occident II - Hommage à la Syrie
+      Steinbacher - Fantasies, Rhapsodies and Daydreams_5
+      Stokowski - Rhapsodies_5
+      The Reiner Sound_5
+      The Ultimate Collection
+        I
+        II
+      The bohemian Album_5
+      Thomas_6
+        Beethoven & Gershwin
+        Orff Carmina Burna etc
+      Titanic - Music From The Motion Picture
+      Touching Colours_5
+      With Endless Teares_5
+      Xenakis_ IX_6
+        Kuniko - Xenakis IX - art
+      蔡琴-不了情2007經典歌曲香港演唱會_6
+    _試音
+      Compilation SACD PentaTone_5
+      Linn
+        1_6
+        2_6
+        3_2
+        4_6
+        5_6
+        6_6
+        7_2 [24-192]
+        8_6
+      Live_6
+        Disc 1
+        Disc 2
+      Moving Real Surround Sound
+      Stay in Tune with PentaTone,  including testtones & soundeffects
+      Total Music Immersion_6
