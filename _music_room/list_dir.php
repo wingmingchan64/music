@@ -3,16 +3,26 @@
 php h:\github\music\_music_room\list_dir.php
 */
 
-$par_path = 'i:';
-$dir_name = '_multi_channel';
+$par_path = 'e:';
+//$dir_name = '_multi_channel';
+$dir_name = '';
+$to_skip = array(
+	"5ch", "6ch", "Artwork", "art", "Art",
+	"Booklet", "booklet",
+	"covers", "Cover", "Covers",
+	"scan", "Scan", "Scans",
+	"Manooscans", "Stereo"
+);
 
 list_dir( $par_path, $dir_name, '  ' );
 
 function list_dir(
 	string $par_path,
 	string $dir_name, 
-	string $padding )
+	string $padding = '',
+	bool $show_file = false )
 {
+	global $to_skip;
 	$dir_path = $par_path . "\\" . $dir_name;
 	
 	if( is_dir( $dir_path ) )
@@ -24,16 +34,19 @@ function list_dir(
 		foreach( $contents as $item )
 		{
 			// Exclude "." and ".." which represent the current and parent directories
-			if( $item != '.' && $item != '..')
+			if( $item != '.' && 
+				$item != '..' && 
+				!in_array( $item, $to_skip )
+			)
 			{
 				if( is_dir( 
 					$dir_path . "\\" . $item ) )
 				{
 					list_dir( $dir_path, $item, $padding . "  " );
 				}
-				else
+				elseif( $show_file )
 				{
-					//echo $item . "\n";
+					echo $item . "\n";
 				}
 			}
 		}
