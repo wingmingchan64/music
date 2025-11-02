@@ -1,3 +1,34 @@
+  BR
+    Accardo - Paganini Complete Recordings BD
+    Argerich - Chopin
+    Ashkenazy - Complete Solo Recordings BD - 2022
+    Beethoven, Mendelssiohn Violin BD
+    Benda - Rossini Overtures
+    Byron Janis - The Mercury Masters BR
+    Davis - Nielsen Symphonies 1-6 BD
+    Davis, LSO - Sibelius Symphonies BR
+    Dudamel - 2 BR
+    Gardiner - Mendelssohn Symphonies 1 and 4 BD
+    Grieg Piano Concerto
+    Gulda - Beethoven Piano Concertos 1-5 BD
+    Gulda - Mozart Piano Concertos BD
+    Karajan - Beethoven Symphonies BD - 2018
+    Karajan - Tchaikovsky Symphonies BD - - 2019
+    Karajan - Wagner Die Walkuere
+    Kleiber, Carlos
+    Lin, Newman - Vivaldi 4 Seasons
+    Mehta - Mahler 2 BD
+    Michelangeli -Debussy BD
+    Mozart Le Nozze di Figaro
+    Mutter, Masur - Beethoven Violin Concerto BD
+    Saint-Saëns Symphony No. 3 BR
+    Solti - Mahler 8 BR
+    Steinberg - Holst Planets, Strauss Zarathustra
+    Stokowski - Mussorgsky
+    Wit - Mahler 8
+    Yang - Mendelssohn Violin Concertos
+    Zimerman, LSO, Rattle - Beethoven Piano Concertos
+
   SACD_ISO
     Artists
       Albrecht - Dukas, Ravel, Koechlin
