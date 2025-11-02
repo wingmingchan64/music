@@ -3,10 +3,10 @@
 php h:\github\music\_music_room\list_dir.php
 */
 
-$par_path = 'e:';
+$par_path = 'k:';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
-$dir_name = '_Others';
+$dir_name = '_Classical\Artists\渡边晓雄 日本爱乐';
 $to_skip = array(
 	"5ch", "6ch", 
 	"Artwork", "Artworks", "artwork", "art", "Art", "ART",
