@@ -5,17 +5,18 @@ php h:\github\music\_music_room\list_dir.php
 
 $par_path = 'e:';
 //$dir_name = '_multi_channel';
-$dir_name = '';
+$dir_name = 'SACD_ISO';
 $to_skip = array(
 	"5ch", "6ch", 
-	"Artwork", "artwork", "art", "Art",
+	"Artwork", "artwork", "art", "Art", "ART",
 	"Booklet", "booklet",
 	"covers", "Cover", "Covers",
 	"scan", "scans", "Scan", "Scans",
 	"Manooscans", "Stereo"
 );
 
-list_dir( $par_path, $dir_name, '  ' );
+//list_dir( $par_path, $dir_name, '  ' );
+list_dir( $par_path, $dir_name, '' );
 
 function list_dir(
 	string $par_path,
