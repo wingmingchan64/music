@@ -7,10 +7,11 @@ $par_path = 'e:';
 //$dir_name = '_multi_channel';
 $dir_name = '';
 $to_skip = array(
-	"5ch", "6ch", "Artwork", "art", "Art",
+	"5ch", "6ch", 
+	"Artwork", "artwork", "art", "Art",
 	"Booklet", "booklet",
 	"covers", "Cover", "Covers",
-	"scan", "Scan", "Scans",
+	"scan", "scans", "Scan", "Scans",
 	"Manooscans", "Stereo"
 );
 
