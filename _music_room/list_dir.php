@@ -6,7 +6,7 @@ php h:\github\music\_music_room\list_dir.php
 $par_path = 'e:';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
-$dir_name = '';
+$dir_name = '_Others';
 $to_skip = array(
 	"5ch", "6ch", 
 	"Artwork", "Artworks", "artwork", "art", "Art", "ART",
@@ -16,8 +16,8 @@ $to_skip = array(
 	"Manooscans", "Stereo"
 );
 
-//list_dir( $par_path, $dir_name, '  ' );
-list_dir( $par_path, $dir_name, '' );
+list_dir( $par_path, $dir_name, '  ' );
+//list_dir( $par_path, $dir_name, '' );
 
 function list_dir(
 	string $par_path,
