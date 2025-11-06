@@ -3,10 +3,10 @@
 php h:\github\music\_music_room\list_dir.php
 */
 
-$par_path = 'e:';
+$par_path = 'f:';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
-$dir_name = 'Magnetar Audio\DVDA';
+$dir_name = '_SACD';
 $to_skip = array(
 	"Done",
 	"5ch", "6ch", 
@@ -14,11 +14,12 @@ $to_skip = array(
 	"Booklet", "booklet",
 	"covers", "Cover", "Covers",
 	"scan", "scans", "Scan", "Scans",
-	"Manooscans", "Stereo"
+	"Manooscans", "Stereo",
+	"资源--索引", "资源-索引", "诚通盘社区下载方法（图解）",
 );
 
-list_dir( $par_path, $dir_name, '  ' );
-//list_dir( $par_path, $dir_name, '' );
+//list_dir( $par_path, $dir_name, '  ' );
+list_dir( $par_path, $dir_name, '' );
 
 function list_dir(
 	string $par_path,
