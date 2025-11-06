@@ -1,0 +1,155 @@
+Video\_Ballets
+  Giselle - Sorokov
+  Giselle Ballet Opera De Paris
+  Jewels - ROH
+  La Dame aux Camelias
+    LA_DAME_AUX_CAMELIAS_DISС1
+    LA_DAME_AUX_CAMELIAS_DISС2
+  Pas de Deux
+  Raymonda - Gergiev
+  Raymonda - Klinichev
+  Swan Lake - Kessels, ROH
+  Swan Lake 2020 - Sorokin, Bolshoi
+  The Nutcracker 2020
+  The Sleeping Beauty - Kessels, ROH
+  The Sleeping Beauty - ROH 2020
+Video\_Concerts
+  Bach Goldberg Variations
+  Beethoven Piano Concertos - Zimerman, LSO, Rattle
+  Bruckner 8 - Barenboim
+  Concerto, Enigma Variations, Raymonda Act III - ROH
+  Fantasymphony
+  Gala d'ouverture de la Philharmonie de Paris
+  Gaming in Symphony
+  Garrett, David - Music Live in concert
+  Homage to Robert Schumann - 2010
+  JOHANN_STRAUSS_GALA
+  Josh Groban Awake Live
+  Mahler - Jarvi P
+    1, 2
+    3
+    3, 4
+    5, 6
+    7, 8
+    9, 10
+  Mahler, Webern, Strauss R - Quasthoff
+  Messiah - Spinosi
+  Pergolesi Adriano in Siria - Dantone
+  Pergolesi.Il prigionier superbo; La serva padrona - Rovaris
+  Perlman plays Beethoven and Brahms
+  Pierre Boulez Saal – Opening Concert 2017
+  Pressler, Jarvi, Orchestre de Paris plays Mozart and Debussy
+  Rattle Conducts Tchaikovsky, Stravinsky, Rachmaninov
+  Rieu - And The Waltz Goes On
+  Salsburg Festival 2018 - Nelsons
+  Salzburg Festival - Ouverture Spirituelle - Harnoncourt conducts Mozart
+  Scarlatti - Where there is love, there is jealousy
+  Schumann Symphonies - Rattle
+  Schumann Symphony No.4. Piano Concerto - Argerich, Chailly
+  Soiree baroque a la Philharmonie de Paris (William Christie) 2015
+  The Cleveland Orchestra - Centennial Celebration
+  The Young Debussy
+  Zimmerman, Rattle - Beethoven PCs
+Video\_Operas
+  Aida - Luisotti
+  Ariadne auf Naxos - Dohnanyi
+  Ariadne auf Naxos - Thielemann
+  Armida - Rizzi
+  Carmen - Armstrong
+  Carmen - Piollet
+  Cyrano de Bergerac - Roberto Alagna
+  Dardanus - Pichon
+  Demetrio e Polibio - Rovaris
+  Der fliegende Holländer - Haenchen
+  Dialogues of the Carmelites - Nagano
+  Die Hugenotten - Soltesz
+  Don Giovanni - Barenboim
+  Don Giovanni - Losey
+    BD_DONGIOVANNI
+      AACS
+        DUPLICATE
+    DON GIOVANNI COLLECTOR - DVD3
+  Don Giovanni - Mackerras
+    #1
+    #2
+  Falstaff - Lebard
+  Faust - Pérez
+  Genoveva - Harnoncourt
+  Guillaume Tell - Pappano
+    SUBS
+  I Am From Austria
+  I Pagliacci - Pappano
+    SUBS
+  I Verpri Siciliani - Pappano
+  IL TROVATORE - Alvarez, Romano, Sgura, Teatro Regio di Parma, Festival Verdi; 5, 9.10.2010
+    IL TROVATORE
+  Idomeneo - Levine
+  Idomeneo - Nagano
+  Il Flaminio - Dantone
+  Il Mondo della Luna - Harnoncourt
+  Il barbiere di Siviglia - Battistoni
+  Il barbiere di Siviglia - Gelmetti
+  Il barbiere di Siviglia - Mattei
+  Khovanshchina - Abbado
+  Khovanshchina - Nagano
+  King Roger
+  Königskinder - Metzmacher
+  L'Elisir d'Amore - Benini
+  L'Elisir d'Amore - Heras Casado
+  L'Italiana in Algeri - Cobos
+  L'Olimpiade - de Marchi
+  La Boheme [Carreras, Stratas] DVD9
+    Images
+  La Bohème - Cobos
+  La Cenerentola - Hall
+  La Cenerentola - Perez
+  La Didone - Christie
+  La Fuga In Maschera - Rovaris
+    FAB!
+      DUPLICATE
+  La Gazzetta - Barbacini
+  La Traviata - Conlon
+  La Traviata - Rizzi
+  La finta giardiniera - Haïm
+  Les Contes d'Hoffmann - Debus
+  Lucio Silla - Bolton
+  Lucrezia Borgia - Frizza
+  MEISTERSINGERS
+  Madama Butterfly - Pappano
+  Manon - de Billy
+  Medea in Corinto - Bolton
+  Mefistofele
+  Mikado - Macleod
+  Nabucco Metopera 01.07.2017 HDTV 1080i AC3 Multisubs
+    SUBS
+  Only the Sound Remains - de Ridder
+    ANY!
+      DUPLICATE
+  Otello - Chung
+  Otello - Muti
+  Parsifal - Nagano
+    PARSIFAL
+    PARSIFAL D2
+  Plateia - Minkowski
+  Puccini Gianni Schicchi. Rachmaninov The Miserly Knight - Jurowski
+  Rent
+  Robert le Diable -
+  Rusalka - Elder
+  Ruslan et Ludmila - Jurowski
+  Sampson et Dalilah - Elder
+  Semele - Gardiner
+  Tan Dun - Marco Polo
+  Tannhäuser - Levine
+    SUBS
+  The Barber of Seville (English)
+    Subs
+  The Gambler - Gergiev
+  The Minotaur -
+  The Nose - Smelkov
+  The Passenger - Currentzis
+  Traviata - You Deserve a Better Future
+  Tristan und Isolde - Kout
+  Un Ballo in Maschera - Cobos
+  William Tell - Mariotti
+  Zelmira - R Abbado
+  Zoroaster -
