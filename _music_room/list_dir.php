@@ -3,10 +3,10 @@
 php h:\github\music\_music_room\list_dir.php
 */
 
-$par_path = 'f:';
+$par_path = 'e:';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
-$dir_name = '_SACD';
+$dir_name = '_Musical';
 $to_skip = array(
 	"Done",
 	"5ch", "6ch", 
@@ -16,6 +16,13 @@ $to_skip = array(
 	"scan", "scans", "Scan", "Scans",
 	"Manooscans", "Stereo",
 	"资源--索引", "资源-索引", "诚通盘社区下载方法（图解）",
+	// bluray
+	"BDMV", "CERTIFICATE",
+	"", "",
+	"", "",
+	// dvd
+	"VIDEO_TS",
+	"", "",
 );
 
 //list_dir( $par_path, $dir_name, '  ' );
