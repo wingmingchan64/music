@@ -6,7 +6,7 @@ php h:\github\music\_music_room\list_dir.php
 $par_path = 'e:';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
-$dir_name = 'Video';
+$dir_name = '';
 $to_skip = array(
 	"Done",
 	"5ch", "6ch", 
@@ -15,6 +15,7 @@ $to_skip = array(
 	"covers", "Cover", "Covers",
 	"scan", "scans", "Scan", "Scans",
 	"Manooscans", "Stereo",
+	"Audio_ts","Video_ts",
 	"资源--索引", "资源-索引", "诚通盘社区下载方法（图解）",
 	// bluray
 	"BDMV", "CERTIFICATE",
