@@ -35,9 +35,6 @@ Video
     Mahler 8 - Chailly 2016
     Mahler Des Knaben Wunderhorn, Adagio From Symphony No. 10 - Boulez
     Mahler Symphony No 2 - Chailly
-      MAKEMKV
-        AACS
-          DUPLICATE
     Mahler Symphony No. 5 - Chailly
     Mahler Symphony No. 6 - Chailly
     Mariinsky II Opening Gala - Gergiev
@@ -59,11 +56,6 @@ Video
     Winterreise - Goerne
     Woodlands and Beyond - Grimaud
     Yanni - Live At The Acropolis-25th Anniversary (BD)
-  Movies
-    Da Vinci Code BD
-    Die Hard Collection BD
-    Olympus Has Fallen
-    Pirates of the Caribbean BD
   Opera
     Adelaide di Borgogna - Jurowski
     Aida - Gimeno
