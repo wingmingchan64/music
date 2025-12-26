@@ -7,7 +7,7 @@ $par_path = 'e:\\Video';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
 //$dir_name = 'Movies';
-$dir_name = '_HD';
+$dir_name = '_lossy';
 $to_skip = array(
 	"Done",
 	"5ch", "6ch", 

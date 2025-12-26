@@ -315,3 +315,695 @@
       Medusa_ROH.p3.ts
     Wozzeck - Nézet-Séguin
       Wozzeck - Nézet-Séguin.mkv
+	  
+  _lossy
+    _Ballet
+      Anna Karenina
+        Anna Karenina.mkv
+      Cinderella
+        Cinderella - Dutch National Ballet
+          Cinderella - Dutch National Ballet.mkv
+        Cinderella - Paris Ballet-2008
+          1.mp4
+          2.m4v
+      Don Quixote - Osipova
+        back.jpg
+        front.jpg
+      Eugene Onegin - Stuttgart Ballet, Tuggle
+        Eugene Onegin - Stuttgart Ballet, Tuggle.ts
+      Paquita - Paris
+        Paquita - Paris.mkv
+      Romeo and Juliet
+        Romeo and Juliet_Fontyne
+          Romeo and Juliet_Fontyne.mkv
+        Roméo et Juliette - Malandain Ballet
+          Dos_Romeo_AN_1.pdf
+          Romeo et Juliette - Malandain.mkv
+      Swan Lake DVD
+        Fonteyn
+        Murphy
+        Nordquist
+        Osipova, Gruzin
+      The Nutcracker
+        Nutcracker_Royal_Ballet 1985
+        The Nutcracker - Bolshoi 2010
+          The Nutcracker - Bolshoi 2010.mkv
+        The Nutcracker - Bolshoi 2014
+          1 Warm Up.mkv
+          2 Part I.mkv
+          3 Interviews.mkv
+          4 Warm Up.mkv
+          5 Part II.mkv
+        The Nutcracker - Dutch National Ballet
+          The Nutcracker - Dutch National Ballet .mkv
+        The Nutcracker - Svetlanov
+          The Nutcracker - Svetlanov.mkv
+        The Nutcracker - West, San Francisco
+          The Nutcracker - West, San Francisco.mkv
+        The Nutcracker - Zinman
+          The Nutcracker - Zinman.mkv
+        The Nutcracker ROH
+          1 Intro.mkv
+          2 Part I.mkv
+          3 Interviews.mkv
+          4 Part II.mkv
+    _Concert
+      3 Tenors
+        3_Tenors_Paris.mkv
+      Abbado_Lucerne_Festival_2011
+        Abbado_Lucerne_Festival_2011.mkv
+      Bach
+        Biller - St Matthew Passion
+          St_Matthew_Passion.mkv
+        Harnoncourt - Advent Concert
+          cover.jpg
+        Savall - Bach Die Kunst der Fugel
+          back.jpg
+          front.jpg
+        Savall - Messe en si mineur BWV 232
+          CD (FLAC + CUE)
+            CD 1
+              Johann Sebastian Bach - Messe en si mineur BWV 232 (Disc 1 of 2).cue
+              Johann Sebastian Bach - Messe en si mineur BWV 232 (Disc 1 of 2).flac
+              Johann Sebastian Bach - Messe en si mineur BWV 232 (Disc 1 of 2).log
+              cover.jpg
+            CD 2
+              Johann Sebastian Bach - Messe en si mineur BWV 232 (Disc 2 of 2).cue
+              Johann Sebastian Bach - Messe en si mineur BWV 232 (Disc 2 of 2).flac
+              Johann Sebastian Bach - Messe en si mineur BWV 232 (Disc 2 of 2).log
+              cover.jpg
+          DVDs
+            Concert, 19 July 2011.mkv
+            Jordi Savall, une Messe en si à Fontfroide.mkv
+          info sheet.txt
+        Savall - VIVALDI, BACH - Magnificat & Concerti
+          CD (FLAC + CUE)
+            J. S. Bach, Antonio Vivaldi - Magnificat & Concerti.cue
+            J. S. Bach, Antonio Vivaldi - Magnificat & Concerti.flac
+            J. S. Bach, Antonio Vivaldi - Magnificat & Concerti.log
+          OLD VIVALDI, BACH - Magnificat & Concerti.mkv
+          VIVALDI, BACH - Magnificat & Concerti.mkv
+          booklet (AVSA9909D).pdf
+          info sheet.txt
+      Barenboim - Mozart PC 10
+        Mozart PC 10.mkv
+      Beethoven
+        Beethoven Piano Concertos
+          Ashkenazy, Haitink
+            1.mkv
+            2.mkv
+          Zimerman, Bernstein
+            1, 2.mkv
+            3, 4, 5.mkv
+        Bernstein Conducts Beethoven
+          Bernstein_conducts_Beethoven.mkv
+        Bernstein Fidelio
+          1.mkv
+          2.mkv
+        Bohm - Fidelio
+          Beethoven Fidelio.mkv
+        Boulez
+          2012.07.20. Beethoven — S1; Boulez — Dérive 2; Beethoven — S2.mkv
+          2012.07.21. Beethoven — S4; Boulez — Dialogue de l'ombre double; Beethoven — S3.mkv
+          2012.07.23. Beethoven — S6; Boulez — Mémoriale; Boulez — Messagesquisse; Beethoven — S5.mkv
+          2012.07.24. Beethoven — S8; Boulez — Anthèmes 2; Beethoven — S7.mkv
+          2012.07.27. Beethoven — S9.mkv
+        Karajan - Beethoven 9 Symphonies
+          1-2-3
+            title_t00.mkv
+            title_t01.mkv
+            title_t02.mkv
+          4-5-6
+            title_t00.mkv
+            title_t01.mkv
+            title_t02.mkv
+          7-8-9
+            title_t01.mkv
+            title_t02.mkv
+            title_t03.mkv
+        Klemperer - Beethoven 9
+          Beethoven.-.[Symphony.NO.9.Klemperer.RCO].mkv
+        Ma, Barenboim, Perlman - Beethoven Triple Concerto
+          Cover.jpg
+          title_t00.mkv
+        Ozawa - Beethoven 9
+          Beethoven Symphony No. 9 - Ozawa.mkv
+        Symphony.2of4.Beethoven.and.Beyond.mkv
+        Uchida, Jansons - PC 3
+          Jansons - Beethoven, Piano Concerto No. 3  2011 720p BluRay DTS 5.1 x264-DON.mkv
+      Berliner Philharmoniker
+        Athens 2004.mkv
+        Europakonzert_2006.mkv
+        Invitation to the Dance.mkv
+        Istanbul 2001.mkv
+        Palermo 2002.mkv
+        Waldbühne 2003.mkv
+      Berlioz
+        Damnation of Faust, The.mkv
+      Brahms
+        Bernstein - Brahms Violin Concerto, Double Concerto
+          title_t00.mkv
+          title_t01.mkv
+        Ein Deutsches Requiem
+          title_t00.mkv
+          title_t01.mkv
+          title_t02.mkv
+        Zimerman, Bernstein - Brahms PC
+          title_t00.mkv
+      Bruckner
+        Bruckner_Symphony_8.mkv
+      Callas -La Divina
+      Charpentier - Savall
+        AUDIO_TS
+      Christmas in Vienna 2015
+        Christmas in Vienna 2015.mkv
+      Chung - Concerto di Capodanno
+        Chung - Concerto di Capodanno.ts
+      Europa Konzert from Madrid 2011
+        Europa Konzert from Madrid 2011.mkv
+      Grieg Peer Gynt
+        Images
+          Booklet 01 [Cover].jpg
+          Booklet 02 [Cast].jpg
+          Booklet 03 [Chapters].jpg
+          Booklet 04.jpg
+          Booklet 05.jpg
+          Booklet 06.jpg
+          Booklet 07.jpg
+          Booklet 08.jpg
+          DVDCover Front.jpg
+          DVDCover Inside.jpg
+          Disc.jpg
+      Handel
+        Handel Messiah
+          cover.JPG
+          menu 1.JPG
+          menu 2.JPG
+          title_t00.mkv
+        Messiah - Marriner
+          Messiah.mkv
+        Messiah - Spinosi
+          Messiah.mkv
+        Messiah - The Tabernacle Choir & Orchestra
+          Handel's Messiah (Easter Concert)  The Tabernacle Choir & Orchestra.mp4
+      Haydn
+        Bernstein_conducts_Haydn
+          Bernstein_conducts_Haydn.mkv
+        Haydn Die Schopfung - Bernstein
+          title_t01.mkv
+        The Lindsays Plays Haydn
+          1
+            title_t00.mkv
+            title_t02.mkv
+            title_t04.mkv
+            title_t06.mkv
+            title_t08.mkv
+            title_t10.mkv
+            title_t12.mkv
+            title_t14.mkv
+          2
+            title_t00.mkv
+            title_t02.mkv
+            title_t04.mkv
+            title_t06.mkv
+            title_t08.mkv
+            title_t10.mkv
+            title_t12.mkv
+      Il Divo
+        Il Divo At the Coliseum.mkv
+        Il Divo At the Greek Theatre.mkv
+        Il Divo Encore.mkv
+        Il Divo Live in London.mkv
+      Jansons - Dvořák, Mussorgsky
+        Jansons - 9
+          Dvorak_and_Mussorgsky_t00.mkv
+        Jansons - Pictures
+          Dvorak_and_Mussorgsky_t01.mkv
+      John Williams
+        title_t00.mkv
+        title_t01.mkv
+      Jose Carreras - Christmas Concert - Buon Natale
+      Karajan
+        All Soul's Day Concert 1983
+          All Soul's Day Concert 1983.avi
+        All Soul's Day Concert 1984
+          All Soul's Day Concert 1984.mkv
+        All Soul's Day Concert 1985
+          All Soul's Day Concert 1985.avi
+        Beethoven & Brahms Overtures
+          Beethoven & Brahms Overtures.avi
+        Beethoven 1-9 SONY
+          Beethoven Symphonies 1, 8.avi
+          Beethoven Symphonies 2, 3.avi
+          Beethoven Symphonies 4, 5.avi
+          Beethoven Symphonies 6, 7.avi
+          Beethoven Symphony 9.avi
+        Beethoven 1-9 Unitel
+          1.mkv
+          2.mkv
+          3.mkv
+          4.mkv
+          5.mkv
+          6.mkv
+          7.mkv
+          8.mkv
+          9.mkv
+        Beethoven Missa Solemnis
+          Beethoven Missa Solemnis.avi
+        Beethoven Violin Concerto
+          Beethoven Violin Concerto.avi
+        Brahms Ein Deutsches Requiem
+          Brahms Ein Deutsches Requiem.avi
+        Brahms Symphonies 1, 2
+          Brahms Symphonies 1, 2.avi
+        Bruckner 8
+          Bruckner Symphony No.8.avi
+        Debussy La Mer, Ravel Daphnis Et Chloe
+          Debussy La Mer, Ravel Daphnis Et Chloe.mkv
+        Der Rosenkavalier
+          51h4A+TgSJL._SX342_.jpg
+          Der_Rosenkavalier-[cdcovers_cc]-front.jpg
+          Der_Rosenkavalier-[cdcovers_cc]-inside.jpg
+          Rosenkavalier Karajan.mkv
+        Don Giovanni
+          Don Giovanni 1.mkv
+          Don Giovanni 2.mkv
+        Dvořák Symphony No. 9
+          Dvořák Symphony No. 9.mkv
+        Jubilee Concert 100 Years Berliner Philharmoniker
+          Jubilee Concert 100 Years Berliner Philharmoniker.avi
+        Live In Osaka 1984
+          Live In Osaka 1984.avi
+        Mozart High Mass By Pope John Paul II
+          Mozart High Mass By Pope John Paul II.avi
+        Mozart Requiem
+          Mozart Requiem.avi
+        Mussorsky Pictures at an Exhibition
+          Mussorsky Pictures at an Exhibition.avi
+        New Year 1987
+          New Year 1987.mkv
+          New Year's Concert Vienna 1987.avi
+        New Year's Eve Concert
+          1983
+            New Year's Eve Concert 1983.avi
+            New Year's Eve Consert 1983.mkv
+          1984
+            New Year's Eve Concert 1984.avi
+          1985
+            New Year's Eve Concert 1985.avi
+            New Year's Eve Concert 1985.mkv
+          1988
+            New Year's Eve Concert 1988.mkv
+        Openging Concert For the 750th Anniversary Berlin
+          Openging Concert For the 750th Anniversary Berlin.avi
+        Opening Concert Chamber Music Hall Philharmonie Berlin 1987
+          Opening Concert Chamber Music Hall Philharmonie Berlin 1987.avi
+        Strauss R Der Rosenkavalier
+          Strauss R Der Rosenkavalier 1.avi
+          Strauss R Der Rosenkavalier 2.avi
+        Strauss R Don Quixote
+          Strauss R Don Quixote.avi
+        Strauss, R Ein Heldenleben
+          Strauss, R Ein Heldenleben.avi
+        Tchaikovsky Symphonies 4-6
+          Tchaikovsky Symphonies 4-6.avi
+        Verdi Don Carlo
+          Verdi Don Carlo 1.avi
+          Verdi Don Carlo 2.avi
+        Verdi Falstaff
+          Verdi Falstaff.avi
+        Verdi Requiem
+          Verdi Requiem.avi
+      Le Festival de Musique Baroque de Lyon - Camerata Vocale Freiburg, Winfried Toll
+        Le Festival de Musique Baroque de Lyon - Camerata Vocale Freiburg, Winfried Toll.mpg
+        Le Festival de Musique Baroque de Lyon - La Petite Bande, Sigiswald Kuijken.mpg
+      Le concert de Paris 2013
+        Le concert de Paris 2013.mkv
+      Le concert e aris 2013 MiND
+        Le concert e aris 2013 MiND.mkv
+      Les Funérailles Royales de Louis XIV
+        Les Funérailles Royales de Louis XIV.mkv
+        audio tracks [24-96]
+          01. Bells.flac
+          02. Anonyme - «Subvenite Sancti Dei» (plain-chant).flac
+          03. JEAN COLIN - «De profundis» (faux-bourdon).flac
+          04. Anonyme - «Libera me Domine» (plain-chant).flac
+          05. ANDRÉ DANICAN PHILIDOR - Marche pour les Pompes funèbres des cérémonies extraordinaires.flac
+          06. MICHEL-RICHARD DE LALANDE - «De profundis» [S23i].flac
+          07. Anonyme - «Subvenite Sancti Dei» (plain-chant).flac
+          08. LOUIS CHEIN - «Ne recorderis».flac
+          09. «Qui Lazarum resuscitasti (plain-chant).flac
+          10. LOUIS CHEIN - «Dirige Domine».flac
+          11. CHARLES D’HELFER - «Pie Jesu».flac
+          12. Anonyme - «In paradisum» (plain-chant).flac
+          13. MICHEL-RICHARD DE LALANDE - «La Grande pièce royale [S161] ou Caprice que le Roy demandoit souvent».flac
+          14. MICHEL-RICHARD DE LALANDE; «Dies Iræ» [S31] - «Dies iræ, dies illa».flac
+          15. MICHEL-RICHARD DE LALANDE; «Dies Iræ» [S31] - «Juste judex ultionis».flac
+      Lully - Phaéton - Dumestre
+        CD1
+          Le Poème Harmonique - Lully- PhaéTon (Disc 1).cue
+          Le Poème Harmonique - Lully- PhaéTon (Disc 1).flac
+          Le Poème Harmonique - Lully- PhaéTon (Disc 1).jpg
+          Le Poème Harmonique - Lully- PhaéTon (Disc 1).log
+          Lully- PhaéTon (Disc 1).txt
+        CD2
+          Le Poème Harmonique - Lully- PhaéTon (Disc 2).cue
+          Le Poème Harmonique - Lully- PhaéTon (Disc 2).flac
+          Le Poème Harmonique - Lully- PhaéTon (Disc 2).jpg
+          Le Poème Harmonique - Lully- PhaéTon (Disc 2).log
+          Lully- PhaéTon (Disc 2).txt
+        DVD
+          AUDIO_TS
+      Mahler
+        Bernstein
+          1.mkv
+          10.mkv
+          2.mkv
+          3.mkv
+          4.mkv
+          5.mkv
+          6.mkv
+          7.mkv
+          8.mkv
+          9.mkv
+          Bonus.mkv
+          Erde.mkv
+          Mahler_Bernstein_vol1.jpg
+          dvd1
+            VIDEO_TS.BUP
+            VIDEO_TS.IFO
+            VIDEO_TS.VOB
+            VTS_01_0.BUP
+            VTS_01_0.IFO
+            VTS_01_0.VOB
+            VTS_01_1.VOB
+            VTS_01_2.VOB
+            VTS_01_3.VOB
+            VTS_01_4.VOB
+            VTS_01_5.VOB
+            VTS_01_6.VOB
+            VTS_01_7.VOB
+            VTS_01_8.VOB
+            VTS_02_0.BUP
+            VTS_02_0.IFO
+            VTS_02_0.VOB
+            VTS_02_1.VOB
+          dvd2
+            VIDEO_TS.BUP
+            VIDEO_TS.IFO
+            VIDEO_TS.VOB
+            VTS_01_0.BUP
+            VTS_01_0.IFO
+            VTS_01_0.VOB
+            VTS_01_1.VOB
+            VTS_01_2.VOB
+            VTS_01_3.VOB
+            VTS_01_4.VOB
+            VTS_01_5.VOB
+            VTS_01_6.VOB
+            VTS_01_7.VOB
+            VTS_02_0.BUP
+            VTS_02_0.IFO
+            VTS_02_0.VOB
+            VTS_02_1.VOB
+            VTS_03_0.BUP
+            VTS_03_0.IFO
+            VTS_03_0.VOB
+            VTS_03_1.VOB
+          rehearsal_5.mkv
+          rehearsal_9.mkv
+          rehearsal_erde.mkv
+        Chailly 9
+          Chailly Mahler 9.mkv
+        Mahler RCO
+          Das_Lied_von_der_Erde.mkv
+          Mahler_Symphony_07.mkv
+          Mahler_Symphony_08.mkv
+          Mahler_Symphony_10.mkv
+          Totenfeier.mkv
+      Maria By Callas
+        Maria By Callas_t00.mkv
+        Maria By Callas_t01.mkv
+        Maria By Callas_t02.mkv
+      Martha Argerich & Daniel Barenboim_Arte_2016_07_31_18_25
+        Martha Argerich & Daniel Barenboim_Arte_2016_07_31_18_25.mkv
+      Missa Criolla
+        Missa Criolla.mkv
+      Mutter - Mendelssohn
+        dvd cover.jpg
+        photos
+          028947780014-Cvr.jpg
+          Mutter_2008_10_E01.jpg
+          Mutter_2008_10_E02.jpg
+          Mutter_2008_10_E03.jpg
+          Mutter_2008_10_E04.jpg
+          Mutter_2008_10_E05.jpg
+          Mutter_2008_10_E06.jpg
+          Mutter_2008_10_E07.jpg
+          Mutter_2008_10_E08.jpg
+          Mutter_2008_10_E09.jpg
+          Mutter_2008_10_E10.jpg
+          Mutter_2008_10_E11.jpg
+        title_t00.mkv
+        title_t01.mkv
+      Mutter - Mozart
+        concertos
+          1
+            title_t00.mkv
+          2
+            title_t00.mkv
+        piano trios
+          title_t00.mkv
+        sonatas
+          1
+            title_t00.mkv
+            title_t01.mkv
+            title_t02.mkv
+            title_t03.mkv
+            title_t04.mkv
+            title_t05.mkv
+            title_t06.mkv
+            title_t07.mkv
+            title_t08.mkv
+            title_t09.mkv
+            title_t10.mkv
+          2
+            title_t00.mkv
+            title_t01.mkv
+            title_t02.mkv
+            title_t03.mkv
+            title_t04.mkv
+            title_t05.mkv
+            title_t06.mkv
+            title_t07.mkv
+            title_t08.mkv
+      Mutter, Orkis - Beethoven
+        1
+          title_t00.mkv
+          title_t01.mkv
+          title_t02.mkv
+          title_t03.mkv
+          title_t04.mkv
+          title_t05.mkv
+          title_t06.mkv
+        2
+          title_t00.mkv
+          title_t01.mkv
+          title_t02.mkv
+          title_t03.mkv
+        cover.jpg
+      New Year's Concert 2022
+        New Year's Concert 2022.mp4
+      Ozawa - Orff Camina Burana
+        Camina Burana.mkv
+      Perlman in Russia
+        DVD - 1
+        DVD - 2
+        EMI_Perlman_in_Russia.pdf
+      Rachmaninoff
+        Bychkov - 2, Bells
+          1
+            title_t00.mkv
+            title_t01.mkv
+            title_t02.mkv
+          2
+            title_t00.mkv
+            title_t01.mkv
+            title_t02.mkv
+            title_t03.mkv
+          Rachmaninov (front).jpg
+        Horowitz - Piano Concerto No.3
+          Vladimir Horowitz - Rachmaninov - Piano Concerto No.3.ape
+      Schumann
+        Daniel Harding et l'Orchestre de Paris interprètent les Scènes de Faust à la Philharmonie de Paris_Arte_2016_09_16.mkv
+      Strauss, R
+        Jansons - Richard Strauss 2011 720p BluRay DTS 5.1 x264-DON.mkv
+      Verdi Requiem
+        Abbado
+          Verdi-Requiem-Abbado.mkv
+        Barenboim
+          Verdi_Requiem.mkv
+        Dudamel
+          Verdi-Requiem-Dudamel.mkv
+        Karajan
+          title_t00.mkv
+          title_t02.mkv
+      YUNDI_LI
+        title_t00.mkv
+        title_t01.mkv
+        title_t02.mkv
+        title_t03.mkv
+        title_t04.mkv
+        title_t05.mkv
+      Yuri Temirkanov Conducts Rachmaninov & Rimsky-Korsakov [2013, Annecy Classic Festival, DVD9]
+        title_t00.mkv
+    _Opera
+      Acis and Galatea - Hogwood
+        Acis and Galatea.mkv
+      Aida - Levine
+        Aida - Levine.mkv
+      Andrea Chenier - Rudel
+        Andrea Chenier - Rudel.mkv
+      Bizet The Pearl Fishers
+        Bizet The Pearl Fishers.mkv
+      Die Meistersinger von Nurnberg - Weikl, Jerusalem - Bayreuth
+        DVD1
+        DVD2
+      Don Giovanni - Liceu
+        DON GIOVANNI Mozart - Liceu.mp4
+      Elektra - Levine
+        Elektra - Levine.mkv
+      Il Barbiere - Pappano
+        The Barber of Seville - Complete Opera - DiDonato & Florez & Spagnoli & Furlanetto - Pappano - ROH.mp4
+      Il Turco - Welser-Möst
+      Il Turco in Italia - Welser-Möst
+        Il Turco in Italia - Welser-Möst.mkv
+      Il barbiere di Siviglia - Ferro
+        Il barbiere di Siviglia 1.mkv
+        Il barbiere di Siviglia 2.mkv
+        Il barbiere di Siviglia 3.mkv
+        back.jpg
+        cover.jpg
+      La Gazza Ladra - Bartoletti
+        Cover.jpg
+        Disc.jpg
+      La Gioconda - Fischer
+        La Gioconda 1.mkv
+        La Gioconda 2.mkv
+      La Traviata  - Elder
+        La Traviata  - Elder.mp4
+      La fille du régiment - Campanella
+        La fille du régiment - Campanella.mkv
+      Le Nozze di Figaro - Gardiner
+        Le Nozze di Figaro - Gardiner.mkv
+      Manon - Rouland
+        MANON Massenet – Staatsoper Hamburg.mp4
+      Manon Lescaut - Sinopoli
+        Manon Lescaut - Sinopoli.mkv
+      Pelléas et Mélisande - Nott
+        PELLÉAS ET MÉLISANDE Debussy – Grand Théâtre de Genève.mp4
+      Polifemo - Petrou
+        Polifemo.mkv
+      Rigoletto - Chailly
+        Verdi Rigoletto_LPav_ru.txt
+        Verdi-Rigoletto_L_P.ts
+      Romeo et Juliette - Domingo
+        Romeo et Juliette - Domingo.mkv
+      Salome - Malfitano
+      Salome - Stratas
+        cover.tif
+      Serse - Rousset
+        SerRousSc
+          Haendel - Xerxes label.jpg
+          Haendel - Xerxes.jpg
+          Haendel - Xerxes00-01.jpg
+          Haendel - Xerxes02-03.jpg
+          Haendel - Xerxes04-05.jpg
+          Haendel - Xerxes06-07.jpg
+      The Merry Widow - Kunzel
+        The Merry Widow.mkv
+      Werther - Plasson
+        Werther - Plasson.mkv
+    _video
+      ABBA
+        ABBA - I Still Have Faith On You.mkv
+        ABBA - Little Things.mkv
+      Adolphe Adam Le Corsaire - Ballet in three acts.mp4
+      Antonio Vivaldi - Orlando furioso (Fasolis Ceresa).mp4
+      Bamberger Symphoniker, Jakub Hrůša - Richard Strauss Eine Alpensinfonie, op. 64.mp4
+      Concerts
+        Ann-Sophie Mutter Plays Mendelssohn.mkv
+        Beethoven PC 5.mkv
+        Beethoven Violin Concerto.mkv
+        Chopin Piano Concerto 2.mkv
+        Christmas Oratorio 1.mkv
+        Christmas Oratorio 2.mkv
+        I Salonisti.mkv
+        Il Divo - Timeless.m4v
+        Missa Criolla.mkv
+        Missa Solemnis.mkv
+        Mozart PC 19.mkv
+        Mozart PS 10.mkv
+        Mozart Symphony 29.mkv
+        Pyongyang.mkv
+      Dvořák Yo Yo Ma Bělohlávek  2015.mp4
+      Franz Schubert - Trout Quintet - Berliner Philharmoniker Soloists, Yannick Rafalimanana.mp4
+      Frédéric Chopin - 19 Nocturnes (Rubinstein).mp4
+      Giselle - Complete Ballet - Lunkina & Gudanov - Bolshoi Theatre  Жизель - С. Лунькина, Д. Гуданов.mp4
+      Highlights from the BeethovenNight gala, on Ludwig van Beethoven's 250th birthday.mp4
+      Kavakos, Sibelius VC in D minor, Op.47 [Remastered audio].mp4
+      LA BAYADERE BALLET BOLSHOI THEATRE MOSCOW.mp4
+      LE CORSAIRE BALLET BOLSHOI THEATRE MOSCOW.mp4
+      LIVE 250 Jahre Ludwig van Beethoven – Jubiläumskonzert aus der Oper Bonn I Daniel Barenboim  WEDO.mp4
+      La Damnation de Faust - Jonas Kaufmann.mp4
+      Leonidas Kavakos - Sibelius Violin Concerto - Valery GergievMariinsky Theatre Orchestra.mp4
+      Manon Lescaut - Kaufmann & Opolais - complete opera - ROH  Манон Леско - Й. Кауфман, К.Ополайс.mp4
+      Marriage of Figaro - Pritchard.mkv
+      Mozart Gala Concert 250 years of the birth of Mozart.mp4
+      Mozart Violinkonzert B-Dur KV 207 ∙ hr-Sinfonieorchester ∙ Sergey Malov ∙ Andrea Marcon.mp4
+      Opera Aida 2021 Paris-  Kaufmann, Dudnikova, Radvanosky, Belosselskiy.mp4
+      RAYMONDA BALLET BOLSHOI THEATRE MOSCOW    2 HOURS.mp4
+      Riccardo Chailly & the Leipzig Gewandhaus Orchestra Rossini's Petite Messe Solennelle full concert.mp4
+      Sleeping Beauty - Sorokin
+        SLEEPING BEAUTY BALLET BOLSHOI THEATRE MOSCOW.mp4
+      Tchaikovsky Violin Concerto - Batiashvili
+        Tchaikovsky Violin Concerto - Batiashvili.mp4
+      The Barber of Serville - Den Norske Opera & Ballett
+        The Barber of Serville - Den Norske Opera & Ballett.mp4
+      The Pharaon's Daughter - Bolshoi
+        The Pharaon's Daughter - Bolshoi.mp4
+      Winterreise - Ein Ballett von Christian Spuck
+        Winterreise - Ein Ballett von Christian Spuck - Aus dem Opernhaus Zürich.mp4
+      演唱會
+        張偉文04好聽演唱會.mp4
+        金曲情牽半世紀演唱會.mp4
+        黃霑獅子山下演唱會2003 葉麗儀 葉振棠 鐘鎮濤 鄭裕玲 鄭中基 呂方 葉倩文.mp4
+      粤剧
+        《洛神》1957年  任劍輝 方艷芬 (台長138).mp4
+        《阮兆輝》唱南音【男燒衣】.mp4
+        《阮兆輝》演唱南音【客途秋恨】.mp4
+        三笑姻緣 1975年 全片 龍劍笙 梅雪詩 主演.mp4
+        任劍輝、白雪仙
+          去國歸降.mp4
+          唐伯虎點秋香.mp4
+          帝女花.mp4
+          帝女花之香夭.mp4
+          李後主.mp4
+          枇杷巷口故人來.mp4
+          紫釵記.mp4
+          蝶影紅梨記.mp4
+        再折長亭柳－徐柳仙.mp4
+        客途秋恨-白駒榮【唯一製作】.mp4
+        文姬歸漢 - 麥炳榮 冼劍麗 莫佩雯.mp4
+        文姬歸漢_麥炳榮_冼劍麗_合唱_附珍藏工尺譜.mp4
+        獅吼記 (全劇) - 任劍輝 白雪仙 梁醒波.mp4
+        男燒衣 白駒榮.mp4
+        粵曲小曲精選 帝女花之香夭, 唐伯虎點秋香, 鳳閣恩仇未了情, 萬惡淫為首, 漢武帝夢會衛夫人, 雷鳴金鼓戰笳聲, 五湖泛舟.mp4
+        紅線女 昭君出塞.mp4
+        萬惡淫為首－新馬師曾、任冰兒、許英秀、梁醒波、陳嘉鳴、高麗、陳錦棠.mp4
+        鳳閣恩仇未了情_麥炳榮 鳳凰女合唱_附珍藏長、短版工尺譜.mp4
+        龍劍笙、梅雪詩
+          再世紅梅記.mp4
+          帝女花.mp4
+          蝶影紅梨記.mp4
+          西樓錯夢.mp4
