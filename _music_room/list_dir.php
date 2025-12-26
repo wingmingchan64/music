@@ -3,11 +3,11 @@
 php h:\github\music\_music_room\list_dir.php
 */
 
-$par_path = 'e:\\Video';
+$par_path = 'e:\\_Opera';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
 //$dir_name = 'Movies';
-$dir_name = '_lossy';
+$dir_name = '';
 $to_skip = array(
 	"Done",
 	"5ch", "6ch", 

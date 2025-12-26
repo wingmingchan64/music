@@ -164,3 +164,232 @@ _Musical
   Les.Miserables.The.Stage.Concert
   Miss Saigon
   Miss.Saigon.25th.Anniversary.Performance.2016
+_Opera
+    Bartók
+      Bluebeard's Castle
+    Beethoven
+      Fidelio - Haitink
+        00008.m2ts
+    Bellini
+      I Capuleti e I Montecchi
+        I Capuleti e I Montecchi.m2ts
+      I Puritani - Mariotti
+        00005.m2ts
+        00006.m2ts
+        00007.m2ts
+      La Sonnambula - Ferro
+        00001.m2ts
+    Berg
+      Lulu - Pappano
+        00008.m2ts
+    Berlioz
+      Benvenuto Cellini - Gergiev
+        00001.m2ts
+      Les Troyens - Gergiev
+        00000.m2ts
+    Bizet
+      Carmen - Maazel
+        00000.m2ts
+      Les pêcheurs de perles - Noseda
+        00000.m2ts
+        00001.m2ts
+    Borodin
+      Prince Igor - Noseda
+        00006.m2ts
+        00008.m2ts
+      Prince Igor.mkv
+    Centennial Gala 1983 DVD
+    Cilea
+      Adriana Lecouvreur - Armiliato.ts
+      Adriana Lecouvreur - Elder
+        00005.m2ts
+        00006.m2ts
+    Debussy
+      Pelléas et Mélisande - Boulez
+        Pelléas et Mélisande_Disk 1
+        Pelléas et Mélisande_Disk 2
+    Donizetti
+      Anna Bolena - Pidò
+      Don Pasquale - Levine
+      La fille du régiment - Campanella
+      Lucia di Lammermoor - Armiliato
+        00006.m2ts
+        2.m2ts
+      Maria Stuarda - Benini
+    Dvořák
+      Rusalka - Nézet-Séguin
+    Gershwin
+      Gershwin Porgy and Bess.mkv
+    Gounod
+      Faust - Nézet-Séguin
+        00005.m2ts
+        00006.m2ts
+        00007.m2ts
+    Handel
+      Acis and Galatea - Hogwood
+        00008.m2ts
+      Admete - Arman
+      Agrippina - Junghänel
+      Alcina - Minkowski
+      Belshazzar - Jacobs
+      Giulio Cesare - Christie
+        GIULIO CESARE DISK 1
+        GIULIO CESARE DISK 2
+      Rinaldo - Dantone
+      Rodelinda - Bicket
+      Semele - Christie
+      Tamerlano - McCreesh
+        TAMERLANO DISK 1
+        TAMERLANO DISK 2
+      Theodora - Christie
+    Lully
+      Le Bourgeois Gentilhomme - Dumestre
+        DVD1
+        DVD2
+    Massenet
+      Manon - Barenboim
+      Thais - Noseda
+      Werther - Jordan.ts
+      Werther - Metopera
+        1 Part I.mkv
+        2 Part II.mkv
+    Monteverdi
+      Orfeo
+    Mozart
+      Bohm Figaro 1.mkv
+      Bohm Figaro 2.mkv
+      Cosi fan Tutte - Fischer
+      Cosi fan tutte - Gardiner
+        Disc 1
+        Disc 2
+      Die Entführung aus dem Serail - Bolton
+      Die Zauberflöte - Davis
+      Don Giovanni - Jacobs
+      Idomeneo - Bolton
+      La Clemenza di Tito - Cambreling
+      La finta giardiniera - Harnoncourt
+      Le Nozze di Figaro - Glyndebourne
+      Le Nozze di Figaro - Harnoncourt
+      Levine Zauberflote.mkv
+      Lucio Silla - Guth
+      Muti - Don Giovanni DVD
+        DVD
+          TITLE02.mp4
+          TITLE03.mp4
+      Pritchard Figaro.mkv
+      Requiem - Jansons
+    Mussorgsky
+      Boris Godunov - Rostropovich
+    Offenbach
+      Les contes d'Hoffmann - Debus
+      Les contes d'Hoffmann.mkv
+    Puccini
+      Il Trittico - Pannano
+      La Bohème - Chailly
+      La Bohème - De Billy
+      La Fanciulla del West - Armioliato.ts
+      La Fanciulla del West - Rizzi
+      La Rondine (La Fenice, 2008).mkv
+      Madama Butterfly - Joel
+      Manon Lescaut - Pappano
+      Tosca - Oren
+        00001.m2ts
+      Tosca - Pappano
+      Turandot - Nelsons
+    Purcell
+      Dido and Aeneas - Christie
+        00002.m2ts
+    Rameau
+      Les Indes Galantes.mkv
+    Saint-Saens
+      Samson et Delilah.mkv
+    Scarlatti A - Il Pastor di Corinto - Bongiovanni - Tozzi (DVD)
+    Strauss, J
+      Die Fledermaus DVD9 + DVD5 ART HAUS
+        Die Fledermaus DVD 1990.pdf
+        Disc 1
+        Disc 2
+      Die-Fledermaus - Jurowski.mkv
+    Strauss, R
+      Arabella - Thielemann
+      Ariadne auf Naxos - Davis
+        DVD
+          TITLE03.mp4
+      Capriccio - A Davis
+      Elektra - Bohm
+        DVD1
+          TITLE01.mp4
+        DVD2
+          TITLE01.mp4
+    Tchaikovsky
+      Eugene Onegin - Gergiev
+      Eugene Onegin - Gergiev, Fleming.mkv
+      Eugene Onegin - Wellber
+      Pique Dame - Boder
+    Verdi
+      Aida - Chailly.mkv
+      Aida - Oren.mkv
+      Don Carlo - Pappano
+      Don Carlos - Muti
+        Disk 1
+        Disk 2
+      Falstaff - Levine
+      Falstaff_Muti.mkv
+      Forza 1.mkv
+      Forza 2.mkv
+      I due Foscari - Mariotti
+        00000.m2ts
+      Il Trovatore - Rizzi
+      Il Trovatore DVD
+      Karajan - Don Carlo DVD
+      La Forza del Destino - Mehta
+      Les vêpres siciliennes - Carignani
+      Luisa Miller - Renzetti
+      Macbeth - Currentzis
+      Macbeth - Luisi
+      Otello.mkv
+      Requiem - Barenboim
+      Rigoletto - Chailly.mkv
+      Rigoletto - Santi
+      Simon Boccanegra - Barenboim
+      Tutto Verdi
+      Un Ballo in Maschera - Chailly
+      Verdi - Rigoletto (Metropolitan Opera, 2013).mkv
+    Wagner
+      Der fliegende Holländer - Luisi
+      Die Meistersinger von Nürnberg - Jurowski
+        1
+        2
+      Levine Ring
+        Das Rhinegold
+        Die Walküre 1
+        Die Walküre 2
+        Götterdämmerung 1
+        Götterdämmerung 2
+        Siegfried 1
+        Siegfried 2
+      Lohengrin - Thielemann
+      Mehta Ring
+        1 Das Rheingold
+        2 Die Walkure
+        3 Siegfried
+        4 Gotterdammerung
+      Parsifal - Gatti
+      Rienzi - Lang-Lessing
+        1
+          title_t00.mkv
+        2
+          title_t00.mkv
+      Tanhauser - Jordan
+      Tristan und Isolda - Levine DVD
+        DVD1
+          TITLE01.mp4
+        DVD2
+          TITLE01.mp4
+        cover.jpg
+      Tristan und Isolde - Schneider
+        1
+        2
+    Weber
+      Der Freischütz  - Thielemann
+        00007.m2ts
