@@ -3,10 +3,11 @@
 php h:\github\music\_music_room\list_dir.php
 */
 
-$par_path = 'e:';
+$par_path = 'e:\\Video';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
-$dir_name = 'HD Video';
+//$dir_name = 'Movies';
+$dir_name = '_HD';
 $to_skip = array(
 	"Done",
 	"5ch", "6ch", 
@@ -19,7 +20,7 @@ $to_skip = array(
 	"资源--索引", "资源-索引", "诚通盘社区下载方法（图解）",
 	// bluray
 	"BDMV", "CERTIFICATE",
-	"", "",
+	"_original_files", "_docs",
 	"", "",
 	// dvd
 	"VIDEO_TS",
@@ -27,7 +28,8 @@ $to_skip = array(
 );
 
 //list_dir( $par_path, $dir_name, '  ' );
-list_dir( $par_path, $dir_name, '' );
+//list_dir( $par_path, $dir_name, '' );
+list_dir( $par_path, $dir_name, '  ', true );
 
 function list_dir(
 	string $par_path,
@@ -55,11 +57,16 @@ function list_dir(
 				if( is_dir( 
 					$dir_path . "\\" . $item ) )
 				{
-					list_dir( $dir_path, $item, $padding . "  " );
+					list_dir( $dir_path, $item, $padding . "  ", $show_file );
 				}
 				elseif( $show_file )
 				{
-					echo $item . "\n";
+					if( str_ends_with( $item, '.srt' ) )
+					{}
+					else
+					{
+						echo $padding . '  ' . $item . "\n";
+					}
 				}
 			}
 		}
