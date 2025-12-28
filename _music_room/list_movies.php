@@ -3,7 +3,7 @@
 php h:\github\music\_music_room\list_movies.php
 */
 
-$par_path = 'i:';
+$par_path = 'E:';
 //$dir_name = 'Video\\Movies';
 $dir_name = 'Movies';
 $movies = array();
