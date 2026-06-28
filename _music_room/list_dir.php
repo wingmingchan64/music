@@ -6,7 +6,7 @@ php h:\github\music\_music_room\list_dir.php
 $par_path = 'I:';
 //$dir_name = '_multi_channel';
 //$dir_name = 'BR';
-$dir_name = 'Movies';
+$dir_name = 'Movies 3';
 //$dir_name = '';
 $to_skip = array(
 	"Done",

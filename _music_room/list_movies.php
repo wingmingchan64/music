@@ -3,9 +3,9 @@
 php h:\github\music\_music_room\list_movies.php
 */
 
-$par_path = 'E:';
+$par_path = 'F:';
 //$dir_name = 'Video\\Movies';
-$dir_name = 'Movies';
+$dir_name = 'Movies 1';
 $movies = array();
 list_movies( $par_path, $dir_name, $movies );
 echo sizeof( $movies );
